@@ -10,6 +10,7 @@ import SwiftUI
 struct SettingsView: View {
     @EnvironmentObject var DuaModel:DuasViewModel
     @EnvironmentObject var IslandModel:IslandsViewMode
+    @EnvironmentObject var AtollModel:AtollsViewModel
     
     var body: some View {
         ScrollView {
@@ -29,7 +30,11 @@ struct SettingsView: View {
                     
                     Picker("Locations", selection: $IslandModel.locationIndex) {
                         ForEach(0..<IslandModel.Islands.count) { islandIndex in
-                            Text(IslandModel.Islands[islandIndex].name_en)
+                            
+                            var atollObj = AtollsViewModel.getAtoll(atollCode: IslandModel.Islands[islandIndex].atoll_code)
+                            
+                            
+                            Text("\(atollObj.name_abbr_en). \(IslandModel.Islands[islandIndex].name_en)")
                                 .tag(islandIndex)
                                 .font(Font.custom("Avenir Light", size: 17))
                         }
@@ -46,5 +51,6 @@ struct SettingsView_Previews: PreviewProvider {
         SettingsView()
             .environmentObject(DuasViewModel())
             .environmentObject(IslandsViewMode())
+            .environmentObject(AtollsViewModel())
     }
 }

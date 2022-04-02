@@ -10,6 +10,7 @@ import SwiftUI
 struct AdhaanTimingsMainView: View {
     @EnvironmentObject var DuaModel:DuasViewModel
     @EnvironmentObject var IslandModel:IslandsViewMode
+    @EnvironmentObject var AtollModel:AtollsViewModel
     
     var body: some View {
         TabView {
@@ -51,5 +52,6 @@ struct ContentView_Previews: PreviewProvider {
         AdhaanTimingsMainView()
             .environmentObject(DuasViewModel())
             .environmentObject(IslandsViewMode())
+            .environmentObject(AtollsViewModel())
     }
 }

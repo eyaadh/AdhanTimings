@@ -25,6 +25,9 @@
 		3915C66A27F8516D002C6684 /* DuasViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3915C66927F8516D002C6684 /* DuasViewModel.swift */; };
 		3915C66C27F85367002C6684 /* DhuasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3915C66B27F85367002C6684 /* DhuasView.swift */; };
 		391B43C427F8BDFA002565C4 /* atolls.json in Resources */ = {isa = PBXBuildFile; fileRef = 391B43C327F8BDFA002565C4 /* atolls.json */; };
+		3979C57527F8CB7200E7D7EF /* AtollsDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3979C57427F8CB7200E7D7EF /* AtollsDataModel.swift */; };
+		3979C57727F8CC0B00E7D7EF /* AtollsDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3979C57627F8CC0B00E7D7EF /* AtollsDataService.swift */; };
+		3979C57927F8CD7600E7D7EF /* AtollsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3979C57827F8CD7600E7D7EF /* AtollsViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +50,9 @@
 		3915C66927F8516D002C6684 /* DuasViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuasViewModel.swift; sourceTree = "<group>"; };
 		3915C66B27F85367002C6684 /* DhuasView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DhuasView.swift; sourceTree = "<group>"; };
 		391B43C327F8BDFA002565C4 /* atolls.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = atolls.json; sourceTree = "<group>"; };
+		3979C57427F8CB7200E7D7EF /* AtollsDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AtollsDataModel.swift; sourceTree = "<group>"; };
+		3979C57627F8CC0B00E7D7EF /* AtollsDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AtollsDataService.swift; sourceTree = "<group>"; };
+		3979C57827F8CD7600E7D7EF /* AtollsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AtollsViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +121,7 @@
 			children = (
 				3915C66727F84EBF002C6684 /* DuaDataService.swift */,
 				390E2A5827F8B2D200363F8E /* IslandsDataService.swift */,
+				3979C57627F8CC0B00E7D7EF /* AtollsDataService.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -124,6 +131,7 @@
 			children = (
 				3915C66527F84BE8002C6684 /* DuaDataModel.swift */,
 				390E2A5A27F8B2E700363F8E /* IslandDataModel.swift */,
+				3979C57427F8CB7200E7D7EF /* AtollsDataModel.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -133,6 +141,7 @@
 			children = (
 				3915C66927F8516D002C6684 /* DuasViewModel.swift */,
 				390E2A5C27F8B49F00363F8E /* IslandsViewModel.swift */,
+				3979C57827F8CD7600E7D7EF /* AtollsViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -223,7 +232,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3979C57727F8CC0B00E7D7EF /* AtollsDataService.swift in Sources */,
 				3915C64F27F82A8F002C6684 /* AdhaanTimingsMainView.swift in Sources */,
+				3979C57527F8CB7200E7D7EF /* AtollsDataModel.swift in Sources */,
 				3915C66227F8423B002C6684 /* DuaoftheDayView.swift in Sources */,
 				3915C66C27F85367002C6684 /* DhuasView.swift in Sources */,
 				3915C66827F84EBF002C6684 /* DuaDataService.swift in Sources */,
@@ -233,6 +244,7 @@
 				390E2A5B27F8B2E700363F8E /* IslandDataModel.swift in Sources */,
 				3915C66027F84126002C6684 /* PrayerTimingsView.swift in Sources */,
 				390E2A5F27F8B93500363F8E /* SettingsView.swift in Sources */,
+				3979C57927F8CD7600E7D7EF /* AtollsViewModel.swift in Sources */,
 				390E2A5927F8B2D200363F8E /* IslandsDataService.swift in Sources */,
 				3915C64D27F82A8F002C6684 /* AdhanTimingsApp.swift in Sources */,
 			);

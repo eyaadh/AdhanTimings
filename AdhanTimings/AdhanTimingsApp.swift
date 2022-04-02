@@ -14,6 +14,7 @@ struct AdhanTimingsApp: App {
             AdhaanTimingsMainView()
                 .environmentObject(DuasViewModel())
                 .environmentObject(IslandsViewMode())
+                .environmentObject(AtollsViewModel())
         }
     }
 }
