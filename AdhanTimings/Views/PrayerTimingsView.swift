@@ -9,17 +9,22 @@ import SwiftUI
 
 struct PrayerTimingsView: View {
     @EnvironmentObject var DuaModel:DuasViewModel
+    @EnvironmentObject var IslandModel:IslandsViewMode
+    @EnvironmentObject var PrayerTimesModel:PrayerTimesViewModel
+    
+    @State var todaysDate = ""
+    
     
     var body: some View {
         ScrollView{
             // MARK: HEADER - Home Screen
             HStack{
                 VStack(alignment: .leading){
-                    Text("Next Prayer")
+                    Text("Adhan Timings")
                         .font(Font.custom("Avenir Heavy", size: 20))
-                    Text("15:15")
-                        .font(Font.custom("Avenir Black", size: 40))
-                    Text("This many hours left till Asr")
+                    Text(PrayerTimesModel.selectedIslandName)
+                        .font(Font.custom("Avenir Black", size: 30))
+                    Text(todaysDate)
                         .font(Font.custom("Avenir Light", size: 17))
                         .foregroundColor(.gray)
                     
@@ -44,7 +49,7 @@ struct PrayerTimingsView: View {
                     Text("Fajr")
                         .font(Font.custom("Gotu", size: 30))
                     Spacer()
-                    Text("4:13")
+                    Text(PrayerTimesModel.TodaysPrayerTimes.fajr)
                         .font(Font.custom("Gotu", size: 30))
                 }
                 
@@ -56,7 +61,7 @@ struct PrayerTimingsView: View {
                     Text("Sunrise")
                         .font(Font.custom("Gotu Regular", size: 30))
                     Spacer()
-                    Text("6:17")
+                    Text(PrayerTimesModel.TodaysPrayerTimes.sunrise)
                         .font(Font.custom("Gotu Regular", size: 30))
                 }
                 
@@ -68,7 +73,7 @@ struct PrayerTimingsView: View {
                     Text("Dhuhr")
                         .font(Font.custom("Gotu Regular", size: 30))
                     Spacer()
-                    Text("13:00")
+                    Text(PrayerTimesModel.TodaysPrayerTimes.duhr)
                         .font(Font.custom("Gotu Regular", size: 30))
                 }
                 
@@ -80,7 +85,7 @@ struct PrayerTimingsView: View {
                     Text("Ashar")
                         .font(Font.custom("Gotu Regular", size: 30))
                     Spacer()
-                    Text("16:15")
+                    Text(PrayerTimesModel.TodaysPrayerTimes.asr)
                         .font(Font.custom("Gotu Regular", size: 30))
                 }
                 
@@ -92,7 +97,7 @@ struct PrayerTimingsView: View {
                     Text("Maghrib")
                         .font(Font.custom("Gotu Regular", size: 30))
                     Spacer()
-                    Text("16:15")
+                    Text(PrayerTimesModel.TodaysPrayerTimes.maghrib)
                         .font(Font.custom("Gotu Regular", size: 30))
                 }
                 
@@ -104,7 +109,7 @@ struct PrayerTimingsView: View {
                     Text("Isha")
                         .font(Font.custom("Gotu Regular", size: 30))
                     Spacer()
-                    Text("21:36")
+                    Text(PrayerTimesModel.TodaysPrayerTimes.isha)
                         .font(Font.custom("Gotu Regular", size: 30))
                 }
             }
@@ -116,13 +121,18 @@ struct PrayerTimingsView: View {
                 DuaoftheDayView()
             }
         }
-        
+        .onAppear{
+            todaysDate = String(DateFormatter.localizedString(from: Date(), dateStyle: .long, timeStyle: .none))
+        }
     }
+        
 }
 
 struct PrayerTimingsView_Previews: PreviewProvider {
     static var previews: some View {
         PrayerTimingsView()
             .environmentObject(DuasViewModel())
+            .environmentObject(IslandsViewMode())
+            .environmentObject(PrayerTimesViewModel())
     }
 }

@@ -11,6 +11,7 @@ struct SettingsView: View {
     @EnvironmentObject var DuaModel:DuasViewModel
     @EnvironmentObject var IslandModel:IslandsViewMode
     @EnvironmentObject var AtollModel:AtollsViewModel
+    @EnvironmentObject var PrayerTimesModel:PrayerTimesViewModel
     
     var body: some View {
         ScrollView {
@@ -25,10 +26,10 @@ struct SettingsView: View {
                 
                 // MARK: Location Settings
                 HStack{
-                    Text("Locations: ")
+                    Text("Location: ")
                         .font(Font.custom("Avenir Light", size: 17))
                     
-                    Picker("Locations", selection: $IslandModel.locationIndex) {
+                    Picker("Location", selection: $IslandModel.locationIndex) {
                         ForEach(0..<IslandModel.Islands.count) { islandIndex in
                             
                             var atollObj = AtollsViewModel.getAtoll(atollCode: IslandModel.Islands[islandIndex].atoll_code)
@@ -39,6 +40,9 @@ struct SettingsView: View {
                                 .font(Font.custom("Avenir Light", size: 17))
                         }
                     }.pickerStyle(MenuPickerStyle())
+                        .onChange(of: IslandModel.locationIndex) { newLocation in
+                            PrayerTimesModel.updateTodaysPrayerTimes(locationIndex: newLocation)
+                        }
     
                 }
             }.padding()
@@ -52,5 +56,6 @@ struct SettingsView_Previews: PreviewProvider {
             .environmentObject(DuasViewModel())
             .environmentObject(IslandsViewMode())
             .environmentObject(AtollsViewModel())
+            .environmentObject(PrayerTimesViewModel())
     }
 }

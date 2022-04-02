@@ -53,5 +53,6 @@ struct ContentView_Previews: PreviewProvider {
             .environmentObject(DuasViewModel())
             .environmentObject(IslandsViewMode())
             .environmentObject(AtollsViewModel())
+            .environmentObject(PrayerTimesViewModel())
     }
 }

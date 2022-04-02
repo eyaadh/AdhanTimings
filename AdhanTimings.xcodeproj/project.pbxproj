@@ -28,6 +28,9 @@
 		3979C57527F8CB7200E7D7EF /* AtollsDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3979C57427F8CB7200E7D7EF /* AtollsDataModel.swift */; };
 		3979C57727F8CC0B00E7D7EF /* AtollsDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3979C57627F8CC0B00E7D7EF /* AtollsDataService.swift */; };
 		3979C57927F8CD7600E7D7EF /* AtollsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3979C57827F8CD7600E7D7EF /* AtollsViewModel.swift */; };
+		39857D9C27F8D3D9009536D3 /* PrayerTimesDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39857D9B27F8D3D9009536D3 /* PrayerTimesDataModel.swift */; };
+		39857D9E27F8D469009536D3 /* PrayerTimeDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39857D9D27F8D469009536D3 /* PrayerTimeDataService.swift */; };
+		39857DA027F8D60D009536D3 /* PrayerTimesViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39857D9F27F8D60D009536D3 /* PrayerTimesViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +56,9 @@
 		3979C57427F8CB7200E7D7EF /* AtollsDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AtollsDataModel.swift; sourceTree = "<group>"; };
 		3979C57627F8CC0B00E7D7EF /* AtollsDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AtollsDataService.swift; sourceTree = "<group>"; };
 		3979C57827F8CD7600E7D7EF /* AtollsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AtollsViewModel.swift; sourceTree = "<group>"; };
+		39857D9B27F8D3D9009536D3 /* PrayerTimesDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrayerTimesDataModel.swift; sourceTree = "<group>"; };
+		39857D9D27F8D469009536D3 /* PrayerTimeDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrayerTimeDataService.swift; sourceTree = "<group>"; };
+		39857D9F27F8D60D009536D3 /* PrayerTimesViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrayerTimesViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +128,7 @@
 				3915C66727F84EBF002C6684 /* DuaDataService.swift */,
 				390E2A5827F8B2D200363F8E /* IslandsDataService.swift */,
 				3979C57627F8CC0B00E7D7EF /* AtollsDataService.swift */,
+				39857D9D27F8D469009536D3 /* PrayerTimeDataService.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -132,6 +139,7 @@
 				3915C66527F84BE8002C6684 /* DuaDataModel.swift */,
 				390E2A5A27F8B2E700363F8E /* IslandDataModel.swift */,
 				3979C57427F8CB7200E7D7EF /* AtollsDataModel.swift */,
+				39857D9B27F8D3D9009536D3 /* PrayerTimesDataModel.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -142,6 +150,7 @@
 				3915C66927F8516D002C6684 /* DuasViewModel.swift */,
 				390E2A5C27F8B49F00363F8E /* IslandsViewModel.swift */,
 				3979C57827F8CD7600E7D7EF /* AtollsViewModel.swift */,
+				39857D9F27F8D60D009536D3 /* PrayerTimesViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -237,6 +246,8 @@
 				3979C57527F8CB7200E7D7EF /* AtollsDataModel.swift in Sources */,
 				3915C66227F8423B002C6684 /* DuaoftheDayView.swift in Sources */,
 				3915C66C27F85367002C6684 /* DhuasView.swift in Sources */,
+				39857D9C27F8D3D9009536D3 /* PrayerTimesDataModel.swift in Sources */,
+				39857DA027F8D60D009536D3 /* PrayerTimesViewModel.swift in Sources */,
 				3915C66827F84EBF002C6684 /* DuaDataService.swift in Sources */,
 				3915C66627F84BE8002C6684 /* DuaDataModel.swift in Sources */,
 				390E2A5D27F8B49F00363F8E /* IslandsViewModel.swift in Sources */,
@@ -245,6 +256,7 @@
 				3915C66027F84126002C6684 /* PrayerTimingsView.swift in Sources */,
 				390E2A5F27F8B93500363F8E /* SettingsView.swift in Sources */,
 				3979C57927F8CD7600E7D7EF /* AtollsViewModel.swift in Sources */,
+				39857D9E27F8D469009536D3 /* PrayerTimeDataService.swift in Sources */,
 				390E2A5927F8B2D200363F8E /* IslandsDataService.swift in Sources */,
 				3915C64D27F82A8F002C6684 /* AdhanTimingsApp.swift in Sources */,
 			);
