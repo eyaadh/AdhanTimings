@@ -7,18 +7,44 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		390E2A5527F8B19B00363F8E /* prayer_times.json in Resources */ = {isa = PBXBuildFile; fileRef = 390E2A5427F8B19B00363F8E /* prayer_times.json */; };
+		390E2A5727F8B27200363F8E /* islands.json in Resources */ = {isa = PBXBuildFile; fileRef = 390E2A5627F8B27200363F8E /* islands.json */; };
+		390E2A5927F8B2D200363F8E /* IslandsDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 390E2A5827F8B2D200363F8E /* IslandsDataService.swift */; };
+		390E2A5B27F8B2E700363F8E /* IslandDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 390E2A5A27F8B2E700363F8E /* IslandDataModel.swift */; };
+		390E2A5D27F8B49F00363F8E /* IslandsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 390E2A5C27F8B49F00363F8E /* IslandsViewModel.swift */; };
+		390E2A5F27F8B93500363F8E /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 390E2A5E27F8B93400363F8E /* SettingsView.swift */; };
 		3915C64D27F82A8F002C6684 /* AdhanTimingsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3915C64C27F82A8F002C6684 /* AdhanTimingsApp.swift */; };
-		3915C64F27F82A8F002C6684 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3915C64E27F82A8F002C6684 /* ContentView.swift */; };
+		3915C64F27F82A8F002C6684 /* AdhaanTimingsMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3915C64E27F82A8F002C6684 /* AdhaanTimingsMainView.swift */; };
 		3915C65127F82A92002C6684 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3915C65027F82A92002C6684 /* Assets.xcassets */; };
 		3915C65427F82A92002C6684 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3915C65327F82A92002C6684 /* Preview Assets.xcassets */; };
+		3915C66027F84126002C6684 /* PrayerTimingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3915C65F27F84126002C6684 /* PrayerTimingsView.swift */; };
+		3915C66227F8423B002C6684 /* DuaoftheDayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3915C66127F8423B002C6684 /* DuaoftheDayView.swift */; };
+		3915C66427F84AC9002C6684 /* duas.json in Resources */ = {isa = PBXBuildFile; fileRef = 3915C66327F84AC9002C6684 /* duas.json */; };
+		3915C66627F84BE8002C6684 /* DuaDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3915C66527F84BE8002C6684 /* DuaDataModel.swift */; };
+		3915C66827F84EBF002C6684 /* DuaDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3915C66727F84EBF002C6684 /* DuaDataService.swift */; };
+		3915C66A27F8516D002C6684 /* DuasViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3915C66927F8516D002C6684 /* DuasViewModel.swift */; };
+		3915C66C27F85367002C6684 /* DhuasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3915C66B27F85367002C6684 /* DhuasView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		390E2A5427F8B19B00363F8E /* prayer_times.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = prayer_times.json; sourceTree = "<group>"; };
+		390E2A5627F8B27200363F8E /* islands.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = islands.json; sourceTree = "<group>"; };
+		390E2A5827F8B2D200363F8E /* IslandsDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IslandsDataService.swift; sourceTree = "<group>"; };
+		390E2A5A27F8B2E700363F8E /* IslandDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IslandDataModel.swift; sourceTree = "<group>"; };
+		390E2A5C27F8B49F00363F8E /* IslandsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IslandsViewModel.swift; sourceTree = "<group>"; };
+		390E2A5E27F8B93400363F8E /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		3915C64927F82A8F002C6684 /* AdhanTimings.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AdhanTimings.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3915C64C27F82A8F002C6684 /* AdhanTimingsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdhanTimingsApp.swift; sourceTree = "<group>"; };
-		3915C64E27F82A8F002C6684 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		3915C64E27F82A8F002C6684 /* AdhaanTimingsMainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdhaanTimingsMainView.swift; sourceTree = "<group>"; };
 		3915C65027F82A92002C6684 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3915C65327F82A92002C6684 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3915C65F27F84126002C6684 /* PrayerTimingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrayerTimingsView.swift; sourceTree = "<group>"; };
+		3915C66127F8423B002C6684 /* DuaoftheDayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuaoftheDayView.swift; sourceTree = "<group>"; };
+		3915C66327F84AC9002C6684 /* duas.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = duas.json; sourceTree = "<group>"; };
+		3915C66527F84BE8002C6684 /* DuaDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuaDataModel.swift; sourceTree = "<group>"; };
+		3915C66727F84EBF002C6684 /* DuaDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuaDataService.swift; sourceTree = "<group>"; };
+		3915C66927F8516D002C6684 /* DuasViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuasViewModel.swift; sourceTree = "<group>"; };
+		3915C66B27F85367002C6684 /* DhuasView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DhuasView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +78,11 @@
 			isa = PBXGroup;
 			children = (
 				3915C64C27F82A8F002C6684 /* AdhanTimingsApp.swift */,
-				3915C64E27F82A8F002C6684 /* ContentView.swift */,
+				3915C65E27F840F1002C6684 /* Views */,
+				3915C65D27F840E9002C6684 /* ViewModels */,
+				3915C65C27F840D8002C6684 /* Models */,
+				3915C65B27F840D1002C6684 /* Services */,
+				3915C65A27F840C2002C6684 /* Data */,
 				3915C65027F82A92002C6684 /* Assets.xcassets */,
 				3915C65227F82A92002C6684 /* Preview Content */,
 			);
@@ -65,6 +95,55 @@
 				3915C65327F82A92002C6684 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3915C65A27F840C2002C6684 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				3915C66327F84AC9002C6684 /* duas.json */,
+				390E2A5427F8B19B00363F8E /* prayer_times.json */,
+				390E2A5627F8B27200363F8E /* islands.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		3915C65B27F840D1002C6684 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				3915C66727F84EBF002C6684 /* DuaDataService.swift */,
+				390E2A5827F8B2D200363F8E /* IslandsDataService.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		3915C65C27F840D8002C6684 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				3915C66527F84BE8002C6684 /* DuaDataModel.swift */,
+				390E2A5A27F8B2E700363F8E /* IslandDataModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		3915C65D27F840E9002C6684 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				3915C66927F8516D002C6684 /* DuasViewModel.swift */,
+				390E2A5C27F8B49F00363F8E /* IslandsViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		3915C65E27F840F1002C6684 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3915C64E27F82A8F002C6684 /* AdhaanTimingsMainView.swift */,
+				3915C65F27F84126002C6684 /* PrayerTimingsView.swift */,
+				3915C66127F8423B002C6684 /* DuaoftheDayView.swift */,
+				3915C66B27F85367002C6684 /* DhuasView.swift */,
+				390E2A5E27F8B93400363F8E /* SettingsView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,7 +204,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				390E2A5727F8B27200363F8E /* islands.json in Resources */,
 				3915C65427F82A92002C6684 /* Preview Assets.xcassets in Resources */,
+				390E2A5527F8B19B00363F8E /* prayer_times.json in Resources */,
+				3915C66427F84AC9002C6684 /* duas.json in Resources */,
 				3915C65127F82A92002C6684 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,7 +219,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3915C64F27F82A8F002C6684 /* ContentView.swift in Sources */,
+				3915C64F27F82A8F002C6684 /* AdhaanTimingsMainView.swift in Sources */,
+				3915C66227F8423B002C6684 /* DuaoftheDayView.swift in Sources */,
+				3915C66C27F85367002C6684 /* DhuasView.swift in Sources */,
+				3915C66827F84EBF002C6684 /* DuaDataService.swift in Sources */,
+				3915C66627F84BE8002C6684 /* DuaDataModel.swift in Sources */,
+				390E2A5D27F8B49F00363F8E /* IslandsViewModel.swift in Sources */,
+				3915C66A27F8516D002C6684 /* DuasViewModel.swift in Sources */,
+				390E2A5B27F8B2E700363F8E /* IslandDataModel.swift in Sources */,
+				3915C66027F84126002C6684 /* PrayerTimingsView.swift in Sources */,
+				390E2A5F27F8B93500363F8E /* SettingsView.swift in Sources */,
+				390E2A5927F8B2D200363F8E /* IslandsDataService.swift in Sources */,
 				3915C64D27F82A8F002C6684 /* AdhanTimingsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

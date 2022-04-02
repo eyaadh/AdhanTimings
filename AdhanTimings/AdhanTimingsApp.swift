@@ -11,7 +11,9 @@ import SwiftUI
 struct AdhanTimingsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AdhaanTimingsMainView()
+                .environmentObject(DuasViewModel())
+                .environmentObject(IslandsViewMode())
         }
     }
 }

@@ -1,0 +1,3299 @@
+[{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffe9d4"
+  },
+  "island_id": "1",
+  "isles_id": "1",
+  "reg_no": "A01",
+  "name_dv": "ތުރާކުނު",
+  "name_en": "Thuraakunu",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.898979",
+  "lat": "7.103806",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "1",
+  "atoll_code": "A"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffe9d8"
+  },
+  "island_id": "2",
+  "isles_id": "2",
+  "reg_no": "A02",
+  "name_dv": "އުލިގަން",
+  "name_en": "Uligan",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.925095",
+  "lat": "7.083835",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "1",
+  "atoll_code": "A"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffe9dc"
+  },
+  "island_id": "5",
+  "isles_id": "5",
+  "reg_no": "A05",
+  "name_dv": "މޮޅަދޫ",
+  "name_en": "Molhadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.996468",
+  "lat": "7.016098",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "1",
+  "atoll_code": "A"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffe9e0"
+  },
+  "island_id": "6",
+  "isles_id": "6",
+  "reg_no": "A06",
+  "name_dv": "ހޯރަފުށި",
+  "name_en": "Hoarafushi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.896652",
+  "lat": "6.981879",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "1",
+  "atoll_code": "A"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffe9e4"
+  },
+  "island_id": "7",
+  "isles_id": "7",
+  "reg_no": "A07",
+  "name_dv": "އިހަވަންދޫ",
+  "name_en": "Ihavandhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.926102",
+  "lat": "6.953145",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "1",
+  "atoll_code": "A"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffe9e8"
+  },
+  "island_id": "8",
+  "isles_id": "8",
+  "reg_no": "A08",
+  "name_dv": "ކެލާ",
+  "name_en": "Kelaa",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.215462",
+  "lat": "6.951845",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "1",
+  "atoll_code": "A"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffe9ec"
+  },
+  "island_id": "9",
+  "isles_id": "9",
+  "reg_no": "A09",
+  "name_dv": "ވަށަފަރު",
+  "name_en": "Vashafaru",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.164146",
+  "lat": "6.898663",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "1",
+  "atoll_code": "A"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffe9f0"
+  },
+  "island_id": "10",
+  "isles_id": "10",
+  "reg_no": "A10",
+  "name_dv": "ދިއްދޫ",
+  "name_en": "Dhidhdhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.114044",
+  "lat": "6.887120",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "1",
+  "atoll_code": "A"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffe9f4"
+  },
+  "island_id": "11",
+  "isles_id": "11",
+  "reg_no": "A11",
+  "name_dv": "ފިއްލަދޫ",
+  "name_en": "Filladhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.235268",
+  "lat": "6.897072",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "1",
+  "atoll_code": "A"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffe9f8"
+  },
+  "island_id": "12",
+  "isles_id": "12",
+  "reg_no": "A12",
+  "name_dv": "މާރަންދޫ",
+  "name_en": "Maarandhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.984406",
+  "lat": "6.852400",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "1",
+  "atoll_code": "A"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffe9fc"
+  },
+  "island_id": "13",
+  "isles_id": "13",
+  "reg_no": "A13",
+  "name_dv": "ތަކަންދޫ",
+  "name_en": "Thakandhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.995583",
+  "lat": "6.844469",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "1",
+  "atoll_code": "A"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea00"
+  },
+  "island_id": "14",
+  "isles_id": "14",
+  "reg_no": "A14",
+  "name_dv": "އުތީމު",
+  "name_en": "Utheemu",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.112267",
+  "lat": "6.835027",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "1",
+  "atoll_code": "A"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea04"
+  },
+  "island_id": "15",
+  "isles_id": "15",
+  "reg_no": "A15",
+  "name_dv": "މުރައިދޫ",
+  "name_en": "Muraidhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.167145",
+  "lat": "6.837774",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "1",
+  "atoll_code": "A"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea08"
+  },
+  "island_id": "16",
+  "isles_id": "16",
+  "reg_no": "A16",
+  "name_dv": "ބާރަށް",
+  "name_en": "Baarah",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.213150",
+  "lat": "6.816916",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "1",
+  "atoll_code": "A"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea10"
+  },
+  "island_id": "41",
+  "isles_id": "42",
+  "reg_no": "B01",
+  "name_dv": "ފަރިދޫ",
+  "name_en": "Faridhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.053902",
+  "lat": "6.784964",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "2",
+  "atoll_code": "B"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea14"
+  },
+  "island_id": "43",
+  "isles_id": "44",
+  "reg_no": "B02",
+  "name_dv": "ހަނިމާދޫ",
+  "name_en": "Hanimaadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.177795",
+  "lat": "6.766965",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "2",
+  "atoll_code": "B"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea18"
+  },
+  "island_id": "44",
+  "isles_id": "45",
+  "reg_no": "B03",
+  "name_dv": "ފިނޭ",
+  "name_en": "Finey",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.053513",
+  "lat": "6.746074",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "2",
+  "atoll_code": "B"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea1c"
+  },
+  "island_id": "45",
+  "isles_id": "46",
+  "reg_no": "B04",
+  "name_dv": "ނައިވާދޫ",
+  "name_en": "Naivaadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.934250",
+  "lat": "6.747121",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "2",
+  "atoll_code": "B"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea20"
+  },
+  "island_id": "46",
+  "isles_id": "47",
+  "reg_no": "B05",
+  "name_dv": "ހިރިމަރަދޫ",
+  "name_en": "Hirimaradhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.024124",
+  "lat": "6.724919",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "2",
+  "atoll_code": "B"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea24"
+  },
+  "island_id": "47",
+  "isles_id": "48",
+  "reg_no": "B06",
+  "name_dv": "ނޮޅިވަރަންފަރު",
+  "name_en": "Nolhivaranfaru",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.120621",
+  "lat": "6.693313",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "2",
+  "atoll_code": "B"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea28"
+  },
+  "island_id": "48",
+  "isles_id": "49",
+  "reg_no": "B07",
+  "name_dv": "ނެއްލައިދޫ",
+  "name_en": "Nellaidhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.946831",
+  "lat": "6.714940",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "2",
+  "atoll_code": "B"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea2c"
+  },
+  "island_id": "49",
+  "isles_id": "50",
+  "reg_no": "B08",
+  "name_dv": "ނޮޅިވަރަމް",
+  "name_en": "Nolhivaram",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.082413",
+  "lat": "6.662525",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "2",
+  "atoll_code": "B"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea30"
+  },
+  "island_id": "50",
+  "isles_id": "51",
+  "reg_no": "B09",
+  "name_dv": "ކުރިނބި",
+  "name_en": "Kurinbi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.996597",
+  "lat": "6.665513",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "2",
+  "atoll_code": "B"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea34"
+  },
+  "island_id": "51",
+  "isles_id": "52",
+  "reg_no": "B10",
+  "name_dv": "ކުނބުރުދޫ",
+  "name_en": "Kunburudhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.027382",
+  "lat": "6.658286",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "2",
+  "atoll_code": "B"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea38"
+  },
+  "island_id": "52",
+  "isles_id": "53",
+  "reg_no": "B11",
+  "name_dv": "ކުޅުދުއްފުށި",
+  "name_en": "Kulhudhuffushi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.069458",
+  "lat": "6.623269",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "2",
+  "atoll_code": "B"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea3c"
+  },
+  "island_id": "53",
+  "isles_id": "54",
+  "reg_no": "B12",
+  "name_dv": "ކުމުންދޫ",
+  "name_en": "Kumundhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.051636",
+  "lat": "6.571084",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "2",
+  "atoll_code": "B"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea40"
+  },
+  "island_id": "54",
+  "isles_id": "55",
+  "reg_no": "B13",
+  "name_dv": "ނޭކުރެންދޫ",
+  "name_en": "Neykurendhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.979805",
+  "lat": "6.542908",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "2",
+  "atoll_code": "B"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea44"
+  },
+  "island_id": "55",
+  "isles_id": "56",
+  "reg_no": "B14",
+  "name_dv": "ވައިކަރަދޫ",
+  "name_en": "Vaikaradhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.952866",
+  "lat": "6.549727",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "2",
+  "atoll_code": "B"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea48"
+  },
+  "island_id": "56",
+  "isles_id": "57",
+  "reg_no": "B15",
+  "name_dv": "މާވައިދޫ",
+  "name_en": "Maavaidhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.053780",
+  "lat": "6.515374",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "2",
+  "atoll_code": "B"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea4c"
+  },
+  "island_id": "57",
+  "isles_id": "58",
+  "reg_no": "B16",
+  "name_dv": "މަކުނުދޫ",
+  "name_en": "Makunudhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.705200",
+  "lat": "6.409141",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "3",
+  "atoll_code": "B"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea54"
+  },
+  "island_id": "76",
+  "isles_id": "78",
+  "reg_no": "C01",
+  "name_dv": "ކަނޑިތީމު",
+  "name_en": "Kanditheemu",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.915695",
+  "lat": "6.440665",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "4",
+  "atoll_code": "C"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea58"
+  },
+  "island_id": "77",
+  "isles_id": "79",
+  "reg_no": "C02",
+  "name_dv": "ނޫމަރާ",
+  "name_en": "Noomaraa",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.069023",
+  "lat": "6.434146",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "4",
+  "atoll_code": "C"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea5c"
+  },
+  "island_id": "78",
+  "isles_id": "80",
+  "reg_no": "C03",
+  "name_dv": "ގޮއިދޫ",
+  "name_en": "Goidhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.929581",
+  "lat": "6.430076",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "4",
+  "atoll_code": "C"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea60"
+  },
+  "island_id": "79",
+  "isles_id": "81",
+  "reg_no": "C04",
+  "name_dv": "ފޭދޫ",
+  "name_en": "Feydhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.048714",
+  "lat": "6.360313",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "4",
+  "atoll_code": "C"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea64"
+  },
+  "island_id": "80",
+  "isles_id": "82",
+  "reg_no": "C05",
+  "name_dv": "ފީވައް",
+  "name_en": "Feevah",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.209656",
+  "lat": "6.348893",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "4",
+  "atoll_code": "C"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea68"
+  },
+  "island_id": "81",
+  "isles_id": "83",
+  "reg_no": "C06",
+  "name_dv": "ބިލެތްފަހި",
+  "name_en": "Bilehffahi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.973839",
+  "lat": "6.338018",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "4",
+  "atoll_code": "C"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea6c"
+  },
+  "island_id": "82",
+  "isles_id": "84",
+  "reg_no": "C07",
+  "name_dv": "ފޯކައިދޫ",
+  "name_en": "Foakaidhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.149292",
+  "lat": "6.326729",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "4",
+  "atoll_code": "C"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea70"
+  },
+  "island_id": "83",
+  "isles_id": "85",
+  "reg_no": "C08",
+  "name_dv": "ނަރުދޫ",
+  "name_en": "Narudhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.218102",
+  "lat": "6.264328",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "4",
+  "atoll_code": "C"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea74"
+  },
+  "island_id": "84",
+  "isles_id": "86",
+  "reg_no": "C09",
+  "name_dv": "މާކަނޑޫދޫ",
+  "name_en": "Maakandoodhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.267471",
+  "lat": "6.234999",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "4",
+  "atoll_code": "C"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea78"
+  },
+  "island_id": "85",
+  "isles_id": "87",
+  "reg_no": "C10",
+  "name_dv": "މަރޮށި",
+  "name_en": "Maroshi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.061096",
+  "lat": "6.209848",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "5",
+  "atoll_code": "C"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea7c"
+  },
+  "island_id": "86",
+  "isles_id": "88",
+  "reg_no": "C11",
+  "name_dv": "ޅައިމަގު",
+  "name_en": "Lhaimagu",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.251373",
+  "lat": "6.163837",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "5",
+  "atoll_code": "C"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffea80"
+  },
+  "island_id": "87",
+  "isles_id": "89",
+  "reg_no": "C12",
+  "name_dv": "ފިރުނބައިދޫ",
+  "name_en": "Firubaidhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.227501",
+  "lat": "6.114326",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "5",
+  "atoll_code": "C"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffea84"
+  },
+  "island_id": "88",
+  "isles_id": "90",
+  "reg_no": "C13",
+  "name_dv": "ކޮމަންޑޫ",
+  "name_en": "Komandoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.054527",
+  "lat": "6.055146",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "5",
+  "atoll_code": "C"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffea88"
+  },
+  "island_id": "89",
+  "isles_id": "91",
+  "reg_no": "C14",
+  "name_dv": "މާއުނގޫދޫ",
+  "name_en": "Maaungoodhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.284599",
+  "lat": "6.038224",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "5",
+  "atoll_code": "C"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffea8c"
+  },
+  "island_id": "90",
+  "isles_id": "92",
+  "reg_no": "C15",
+  "name_dv": "ފުނަދޫ",
+  "name_en": "Funadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.290382",
+  "lat": "6.150369",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "5",
+  "atoll_code": "C"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffea94"
+  },
+  "island_id": "128",
+  "isles_id": "133",
+  "reg_no": "D01",
+  "name_dv": "ހެނބަދޫ",
+  "name_en": "Henbandhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.392906",
+  "lat": "5.967417",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "6",
+  "atoll_code": "D"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffea98"
+  },
+  "island_id": "129",
+  "isles_id": "134",
+  "reg_no": "D02",
+  "name_dv": "ކެނދިކޮޅުދޫ",
+  "name_en": "Kendhikolhudhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.415199",
+  "lat": "5.952303",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "6",
+  "atoll_code": "D"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffea9c"
+  },
+  "island_id": "131",
+  "isles_id": "136",
+  "reg_no": "D04",
+  "name_dv": "މާޅެންދޫ",
+  "name_en": "Maalhendhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.456039",
+  "lat": "5.902501",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "6",
+  "atoll_code": "D"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeaa0"
+  },
+  "island_id": "132",
+  "isles_id": "137",
+  "reg_no": "D05",
+  "name_dv": "ކުޑަފަރީ",
+  "name_en": "Kudafari",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.400452",
+  "lat": "5.882637",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "6",
+  "atoll_code": "D"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeaa4"
+  },
+  "island_id": "133",
+  "isles_id": "138",
+  "reg_no": "D06",
+  "name_dv": "ލަންދޫ",
+  "name_en": "Landhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.466438",
+  "lat": "5.881740",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "6",
+  "atoll_code": "D"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeaa8"
+  },
+  "island_id": "134",
+  "isles_id": "139",
+  "reg_no": "D07",
+  "name_dv": "މާފަރު",
+  "name_en": "Maafaru",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.476540",
+  "lat": "5.824048",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "6",
+  "atoll_code": "D"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeaac"
+  },
+  "island_id": "135",
+  "isles_id": "140",
+  "reg_no": "D08",
+  "name_dv": "ޅޮހި",
+  "name_en": "Lhohi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.377396",
+  "lat": "5.815795",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "6",
+  "atoll_code": "D"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeab0"
+  },
+  "island_id": "136",
+  "isles_id": "141",
+  "reg_no": "D09",
+  "name_dv": "މިލަދޫ",
+  "name_en": "Miladhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.362320",
+  "lat": "5.790502",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "6",
+  "atoll_code": "D"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeab4"
+  },
+  "island_id": "137",
+  "isles_id": "142",
+  "reg_no": "D10",
+  "name_dv": "މަގޫދޫ",
+  "name_en": "Magoodhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.362183",
+  "lat": "5.776299",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "6",
+  "atoll_code": "D"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeab8"
+  },
+  "island_id": "138",
+  "isles_id": "143",
+  "reg_no": "D11",
+  "name_dv": "މަނަދޫ",
+  "name_en": "Manadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.410973",
+  "lat": "5.766205",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "6",
+  "atoll_code": "D"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeabc"
+  },
+  "island_id": "139",
+  "isles_id": "144",
+  "reg_no": "D12",
+  "name_dv": "ހޮޅުދޫ",
+  "name_en": "Holhudhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.262794",
+  "lat": "5.754955",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "7",
+  "atoll_code": "D"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeac0"
+  },
+  "island_id": "140",
+  "isles_id": "145",
+  "reg_no": "D13",
+  "name_dv": "ފޮއްދޫ",
+  "name_en": "Fodhdhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.215790",
+  "lat": "5.743517",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "7",
+  "atoll_code": "D"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeac4"
+  },
+  "island_id": "141",
+  "isles_id": "146",
+  "reg_no": "D14",
+  "name_dv": "ވެލިދޫ",
+  "name_en": "Velidhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.274239",
+  "lat": "5.663899",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "7",
+  "atoll_code": "D"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeacc"
+  },
+  "island_id": "200",
+  "isles_id": "207",
+  "reg_no": "E01",
+  "name_dv": "އަލިފުށި",
+  "name_en": "Alifushi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.953033",
+  "lat": "5.967254",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "8",
+  "atoll_code": "E"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffead0"
+  },
+  "island_id": "201",
+  "isles_id": "208",
+  "reg_no": "E02",
+  "name_dv": "ވާދޫ",
+  "name_en": "Vaadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.991074",
+  "lat": "5.855380",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "8",
+  "atoll_code": "E"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffead4"
+  },
+  "island_id": "202",
+  "isles_id": "209",
+  "reg_no": "E03",
+  "name_dv": "ރަސްގެތީމު",
+  "name_en": "Rasgetheemu",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.003197",
+  "lat": "5.807783",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "8",
+  "atoll_code": "E"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffead8"
+  },
+  "island_id": "203",
+  "isles_id": "210",
+  "reg_no": "E04",
+  "name_dv": "އަނގޮޅިތީމު",
+  "name_en": "Angolhitheemu",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.006622",
+  "lat": "5.792765",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "8",
+  "atoll_code": "E"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeadc"
+  },
+  "island_id": "205",
+  "isles_id": "212",
+  "reg_no": "E06",
+  "name_dv": "އުނގޫފާރު",
+  "name_en": "Ungoofaaru",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.030151",
+  "lat": "5.668157",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "9",
+  "atoll_code": "E"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeae0"
+  },
+  "island_id": "207",
+  "isles_id": "214",
+  "reg_no": "E08",
+  "name_dv": "މާކުރަތު",
+  "name_en": "Maakurathu",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.043152",
+  "lat": "5.606037",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "9",
+  "atoll_code": "E"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeae4"
+  },
+  "island_id": "208",
+  "isles_id": "215",
+  "reg_no": "E09",
+  "name_dv": "ރަސްމާދޫ",
+  "name_en": "Rasmaadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.043480",
+  "lat": "5.562959",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "10",
+  "atoll_code": "E"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeae8"
+  },
+  "island_id": "209",
+  "isles_id": "216",
+  "reg_no": "E10",
+  "name_dv": "އިންނަމާދޫ",
+  "name_en": "Innamaadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.043800",
+  "lat": "5.549437",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "10",
+  "atoll_code": "E"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeaec"
+  },
+  "island_id": "210",
+  "isles_id": "217",
+  "reg_no": "E11",
+  "name_dv": "މަޑުއްވަރީ",
+  "name_en": "Maduvvari",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.896004",
+  "lat": "5.486265",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "10",
+  "atoll_code": "E"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeaf0"
+  },
+  "island_id": "211",
+  "isles_id": "218",
+  "reg_no": "E12",
+  "name_dv": "އިނގުރައިދޫ",
+  "name_en": "Inguraidhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.036301",
+  "lat": "5.476875",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "10",
+  "atoll_code": "E"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeaf4"
+  },
+  "island_id": "212",
+  "isles_id": "219",
+  "reg_no": "E13",
+  "name_dv": "ފައިނު",
+  "name_en": "Fainu",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.034447",
+  "lat": "5.463281",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "10",
+  "atoll_code": "E"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeaf8"
+  },
+  "island_id": "213",
+  "isles_id": "220",
+  "reg_no": "E14",
+  "name_dv": "މީދޫ",
+  "name_en": "Meedhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.955284",
+  "lat": "5.458021",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "10",
+  "atoll_code": "E"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeafc"
+  },
+  "island_id": "214",
+  "isles_id": "221",
+  "reg_no": "E15",
+  "name_dv": "ކިނޮޅަސް",
+  "name_en": "Kinolhas",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.030502",
+  "lat": "5.448406",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "10",
+  "atoll_code": "E"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeb04"
+  },
+  "island_id": "290",
+  "isles_id": "300",
+  "reg_no": "F01",
+  "name_dv": "ކުޑަރިކިލު",
+  "name_en": "Kudarikilu",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.070770",
+  "lat": "5.300536",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "12",
+  "atoll_code": "F"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeb08"
+  },
+  "island_id": "291",
+  "isles_id": "301",
+  "reg_no": "F02",
+  "name_dv": "ކަމަދޫ",
+  "name_en": "Kamadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.137016",
+  "lat": "5.281926",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "12",
+  "atoll_code": "F"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeb0c"
+  },
+  "island_id": "292",
+  "isles_id": "302",
+  "reg_no": "F03",
+  "name_dv": "ކެންދޫ",
+  "name_en": "Kendhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.010147",
+  "lat": "5.275378",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "12",
+  "atoll_code": "F"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeb10"
+  },
+  "island_id": "294",
+  "isles_id": "305",
+  "reg_no": "F04",
+  "name_dv": "ކިހާދޫ",
+  "name_en": "Kihaadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.125175",
+  "lat": "5.215138",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "12",
+  "atoll_code": "F"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeb14"
+  },
+  "island_id": "295",
+  "isles_id": "306",
+  "reg_no": "F05",
+  "name_dv": "ދޮންފަނު",
+  "name_en": "Dhonfanu",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.123047",
+  "lat": "5.187738",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "12",
+  "atoll_code": "F"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeb18"
+  },
+  "island_id": "296",
+  "isles_id": "307",
+  "reg_no": "F06",
+  "name_dv": "ދަރަވަންދޫ",
+  "name_en": "Dharavandhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.130173",
+  "lat": "5.157685",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "12",
+  "atoll_code": "F"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeb1c"
+  },
+  "island_id": "297",
+  "isles_id": "308",
+  "reg_no": "F07",
+  "name_dv": "މާޅޮސް",
+  "name_en": "Maalhos",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.108147",
+  "lat": "5.134814",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "12",
+  "atoll_code": "F"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeb20"
+  },
+  "island_id": "298",
+  "isles_id": "309",
+  "reg_no": "F08",
+  "name_dv": "އޭދަފުށި",
+  "name_en": "Eydhafushi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.070396",
+  "lat": "5.103483",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "12",
+  "atoll_code": "F"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeb24"
+  },
+  "island_id": "300",
+  "isles_id": "311",
+  "reg_no": "F09",
+  "name_dv": "ތުޅާދޫ",
+  "name_en": "Thulhaadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.839981",
+  "lat": "5.022891",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "13",
+  "atoll_code": "F"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeb28"
+  },
+  "island_id": "301",
+  "isles_id": "312",
+  "reg_no": "F10",
+  "name_dv": "ހިތާދޫ",
+  "name_en": "Hithaadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.922791",
+  "lat": "5.007428",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "13",
+  "atoll_code": "F"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeb2c"
+  },
+  "island_id": "302",
+  "isles_id": "313",
+  "reg_no": "F11",
+  "name_dv": "ފުޅަދޫ",
+  "name_en": "Fulhadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.934967",
+  "lat": "4.884705",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "13",
+  "atoll_code": "F"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb30"
+  },
+  "island_id": "303",
+  "isles_id": "314",
+  "reg_no": "F12",
+  "name_dv": "ފެހެންދޫ",
+  "name_en": "Fehendhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.967133",
+  "lat": "4.882001",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "13",
+  "atoll_code": "F"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb34"
+  },
+  "island_id": "304",
+  "isles_id": "315",
+  "reg_no": "F13",
+  "name_dv": "ގޮއިދޫ",
+  "name_en": "Goidhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.000053",
+  "lat": "4.870928",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "13",
+  "atoll_code": "F"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb3c"
+  },
+  "island_id": "368",
+  "isles_id": "382",
+  "reg_no": "G01",
+  "name_dv": "ހިންނަވަރު",
+  "name_en": "Hinnavaru",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.412155",
+  "lat": "5.491961",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "11",
+  "atoll_code": "G"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb40"
+  },
+  "island_id": "369",
+  "isles_id": "383",
+  "reg_no": "G02",
+  "name_dv": "ނައިފަރު",
+  "name_en": "Naifaru",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.365166",
+  "lat": "5.445225",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "11",
+  "atoll_code": "G"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb44"
+  },
+  "island_id": "370",
+  "isles_id": "384",
+  "reg_no": "G03",
+  "name_dv": "ކުރެންދޫ",
+  "name_en": "Kurendhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.463615",
+  "lat": "5.333784",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "11",
+  "atoll_code": "G"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb48"
+  },
+  "island_id": "371",
+  "isles_id": "385",
+  "reg_no": "G04",
+  "name_dv": "އޮޅުވެލިފުށި",
+  "name_en": "Olhuvelifushi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.606384",
+  "lat": "5.278309",
+  "prayer_adjust_mins": "-1",
+  "prayer_table_id": "11",
+  "atoll_code": "G"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb50"
+  },
+  "island_id": "418",
+  "isles_id": "435",
+  "reg_no": "H01",
+  "name_dv": "ކާށިދޫ",
+  "name_en": "Kaashidhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.459610",
+  "lat": "4.956995",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "14",
+  "atoll_code": "H"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb54"
+  },
+  "island_id": "419",
+  "isles_id": "436",
+  "reg_no": "H02",
+  "name_dv": "ގާފަރު",
+  "name_en": "Gaafaru",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.499847",
+  "lat": "4.736115",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "15",
+  "atoll_code": "H"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb58"
+  },
+  "island_id": "420",
+  "isles_id": "437",
+  "reg_no": "H03",
+  "name_dv": "ދިއްފުށި",
+  "name_en": "Dhiffushi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.713753",
+  "lat": "4.442153",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "16",
+  "atoll_code": "H"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb5c"
+  },
+  "island_id": "421",
+  "isles_id": "438",
+  "reg_no": "H04",
+  "name_dv": "ތުލުސްދޫ",
+  "name_en": "Thulusdhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.650436",
+  "lat": "4.374358",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "16",
+  "atoll_code": "H"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb60"
+  },
+  "island_id": "422",
+  "isles_id": "439",
+  "reg_no": "H05",
+  "name_dv": "ހުރާ",
+  "name_en": "Huraa",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.600693",
+  "lat": "4.334328",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "16",
+  "atoll_code": "H"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb64"
+  },
+  "island_id": "423",
+  "isles_id": "440",
+  "reg_no": "H06",
+  "name_dv": "ހިންމަފުށި",
+  "name_en": "Himmafushi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.571861",
+  "lat": "4.308904",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "16",
+  "atoll_code": "H"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb68"
+  },
+  "island_id": "424",
+  "isles_id": "441",
+  "reg_no": "H07",
+  "name_dv": "ގުޅި",
+  "name_en": "Gulhi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.509117",
+  "lat": "3.990986",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "18",
+  "atoll_code": "H"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb6c"
+  },
+  "island_id": "425",
+  "isles_id": "442",
+  "reg_no": "H09",
+  "name_dv": "މާފުށި",
+  "name_en": "Maafushi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.489479",
+  "lat": "3.941216",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "18",
+  "atoll_code": "H"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb70"
+  },
+  "island_id": "426",
+  "isles_id": "443",
+  "reg_no": "H08",
+  "name_dv": "ގުރައިދޫ",
+  "name_en": "Guraidhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.468193",
+  "lat": "3.900871",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "18",
+  "atoll_code": "H"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb78"
+  },
+  "island_id": "502",
+  "isles_id": "524",
+  "reg_no": "U01",
+  "name_dv": "ތޮއްޑޫ",
+  "name_en": "Thoddoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.945633",
+  "lat": "4.437322",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "19",
+  "atoll_code": "U"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb7c"
+  },
+  "island_id": "503",
+  "isles_id": "525",
+  "reg_no": "U02",
+  "name_dv": "ރަސްދޫ",
+  "name_en": "Rasdhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.991974",
+  "lat": "4.263105",
+  "prayer_adjust_mins": "-1",
+  "prayer_table_id": "20",
+  "atoll_code": "U"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb80"
+  },
+  "island_id": "504",
+  "isles_id": "526",
+  "reg_no": "U03",
+  "name_dv": "އުކުޅަސް",
+  "name_en": "Ukulhas",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.863731",
+  "lat": "4.214655",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "20",
+  "atoll_code": "U"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb84"
+  },
+  "island_id": "505",
+  "isles_id": "527",
+  "reg_no": "U04",
+  "name_dv": "މަތިވެރި",
+  "name_en": "Mathiveri",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.745804",
+  "lat": "4.191563",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "20",
+  "atoll_code": "U"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb88"
+  },
+  "island_id": "506",
+  "isles_id": "528",
+  "reg_no": "U05",
+  "name_dv": "ބޮޑުފޮޅުދޫ",
+  "name_en": "Bodufolhudhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.773476",
+  "lat": "4.185455",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "20",
+  "atoll_code": "U"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb8c"
+  },
+  "island_id": "507",
+  "isles_id": "529",
+  "reg_no": "U06",
+  "name_dv": "ފެރިދޫ",
+  "name_en": "Feridhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.725159",
+  "lat": "4.051082",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "21",
+  "atoll_code": "U"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb90"
+  },
+  "island_id": "508",
+  "isles_id": "530",
+  "reg_no": "U07",
+  "name_dv": "މާޅޮސް",
+  "name_en": "Maalhos",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.719627",
+  "lat": "3.986480",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "21",
+  "atoll_code": "U"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb94"
+  },
+  "island_id": "509",
+  "isles_id": "531",
+  "reg_no": "U08",
+  "name_dv": "ހިމަންދޫ",
+  "name_en": "Himandhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.744499",
+  "lat": "3.921612",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "21",
+  "atoll_code": "U"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb9c"
+  },
+  "island_id": "535",
+  "isles_id": "559",
+  "reg_no": "I01",
+  "name_dv": "ހަންޏާމީދޫ",
+  "name_en": "Hangnameedhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.955391",
+  "lat": "3.849337",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "22",
+  "atoll_code": "I"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffeba0"
+  },
+  "island_id": "536",
+  "isles_id": "560",
+  "reg_no": "I02",
+  "name_dv": "އޮމަދޫ",
+  "name_en": "Omadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.961128",
+  "lat": "3.791600",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "22",
+  "atoll_code": "I"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffeba4"
+  },
+  "island_id": "537",
+  "isles_id": "561",
+  "reg_no": "I03",
+  "name_dv": "ކުނބުރުދޫ",
+  "name_en": "Kuburudhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.923691",
+  "lat": "3.775587",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "22",
+  "atoll_code": "I"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffeba8"
+  },
+  "island_id": "538",
+  "isles_id": "562",
+  "reg_no": "I04",
+  "name_dv": "މަހިބަދޫ",
+  "name_en": "Mahibadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.969063",
+  "lat": "3.757220",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "22",
+  "atoll_code": "I"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffebac"
+  },
+  "island_id": "539",
+  "isles_id": "563",
+  "reg_no": "I05",
+  "name_dv": "މަންދޫ",
+  "name_en": "Mandhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.710083",
+  "lat": "3.697902",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "22",
+  "atoll_code": "I"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffebb0"
+  },
+  "island_id": "540",
+  "isles_id": "564",
+  "reg_no": "I06",
+  "name_dv": "ދަނގެތި",
+  "name_en": "Dhangethi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.955406",
+  "lat": "3.606805",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "23",
+  "atoll_code": "I"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffebb4"
+  },
+  "island_id": "541",
+  "isles_id": "565",
+  "reg_no": "I07",
+  "name_dv": "ދިގުރަށް",
+  "name_en": "Dhigurah",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.924103",
+  "lat": "3.526920",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "23",
+  "atoll_code": "I"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffebb8"
+  },
+  "island_id": "542",
+  "isles_id": "566",
+  "reg_no": "I08",
+  "name_dv": "ފެންފުށި",
+  "name_en": "Fenfushi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.782913",
+  "lat": "3.489213",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "23",
+  "atoll_code": "I"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffebbc"
+  },
+  "island_id": "543",
+  "isles_id": "567",
+  "reg_no": "I09",
+  "name_dv": "ދިއްދޫ",
+  "name_en": "Dhidhdhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.879501",
+  "lat": "3.484906",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "23",
+  "atoll_code": "I"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffebc0"
+  },
+  "island_id": "544",
+  "isles_id": "568",
+  "reg_no": "I10",
+  "name_dv": "މާމިގިލި",
+  "name_en": "Maamigili",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.836914",
+  "lat": "3.476670",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "23",
+  "atoll_code": "I"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffebc8"
+  },
+  "island_id": "581",
+  "isles_id": "605",
+  "reg_no": "J01",
+  "name_dv": "ފުލިދޫ",
+  "name_en": "Fulidhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.415787",
+  "lat": "3.680477",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "24",
+  "atoll_code": "J"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffebcc"
+  },
+  "island_id": "582",
+  "isles_id": "606",
+  "reg_no": "J02",
+  "name_dv": "ތިނަދޫ",
+  "name_en": "Thinadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.537857",
+  "lat": "3.487673",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "24",
+  "atoll_code": "J"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffebd0"
+  },
+  "island_id": "583",
+  "isles_id": "607",
+  "reg_no": "J03",
+  "name_dv": "ފެލިދޫ",
+  "name_en": "Felidhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.547043",
+  "lat": "3.471751",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "24",
+  "atoll_code": "J"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffebd4"
+  },
+  "island_id": "584",
+  "isles_id": "608",
+  "reg_no": "J04",
+  "name_dv": "ކެޔޮދޫ",
+  "name_en": "Keyodhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.550110",
+  "lat": "3.462117",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "24",
+  "atoll_code": "J"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffebd8"
+  },
+  "island_id": "585",
+  "isles_id": "609",
+  "reg_no": "J05",
+  "name_dv": "ރަކީދޫ",
+  "name_en": "Rakeedhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.469826",
+  "lat": "3.314940",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "25",
+  "atoll_code": "J"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffebe0"
+  },
+  "island_id": "600",
+  "isles_id": "624",
+  "reg_no": "K01",
+  "name_dv": "ރަތްމަންދޫ",
+  "name_en": "Raimandhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.639091",
+  "lat": "3.089010",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "26",
+  "atoll_code": "K"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffebe4"
+  },
+  "island_id": "602",
+  "isles_id": "626",
+  "reg_no": "K03",
+  "name_dv": "ވޭވަށް",
+  "name_en": "Veyvah",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.599762",
+  "lat": "2.955840",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "27",
+  "atoll_code": "K"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffebe8"
+  },
+  "island_id": "603",
+  "isles_id": "627",
+  "reg_no": "K04",
+  "name_dv": "މުލައް",
+  "name_en": "Mulah",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.584259",
+  "lat": "2.946387",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "27",
+  "atoll_code": "K"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffebec"
+  },
+  "island_id": "604",
+  "isles_id": "628",
+  "reg_no": "K05",
+  "name_dv": "މުލި",
+  "name_en": "Muli",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.581367",
+  "lat": "2.918991",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "27",
+  "atoll_code": "K"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffebf0"
+  },
+  "island_id": "605",
+  "isles_id": "629",
+  "reg_no": "K06",
+  "name_dv": "ނާލާފުށި",
+  "name_en": "Naalaafushi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.577400",
+  "lat": "2.895659",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "27",
+  "atoll_code": "K"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffebf4"
+  },
+  "island_id": "606",
+  "isles_id": "630",
+  "reg_no": "K07",
+  "name_dv": "ކޮޅުފުށި",
+  "name_en": "Kolhufushi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.424438",
+  "lat": "2.780810",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "28",
+  "atoll_code": "K"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffebf8"
+  },
+  "island_id": "607",
+  "isles_id": "631",
+  "reg_no": "K08",
+  "name_dv": "ދިއްގަރު",
+  "name_en": "Dhiggaru",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.565254",
+  "lat": "3.112102",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "26",
+  "atoll_code": "K"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffebfc"
+  },
+  "island_id": "608",
+  "isles_id": "632",
+  "reg_no": "K09",
+  "name_dv": "މަޑުއްވަރި",
+  "name_en": "Maduvvari",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.572899",
+  "lat": "3.104647",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "26",
+  "atoll_code": "K"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffec04"
+  },
+  "island_id": "633",
+  "isles_id": "658",
+  "reg_no": "L01",
+  "name_dv": "ފީއަލި",
+  "name_en": "Feeali",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.002167",
+  "lat": "3.269859",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "29",
+  "atoll_code": "L"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffec08"
+  },
+  "island_id": "634",
+  "isles_id": "659",
+  "reg_no": "L02",
+  "name_dv": "ބިލެތްދޫ",
+  "name_en": "Biledhdhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.984093",
+  "lat": "3.118307",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "30",
+  "atoll_code": "L"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffec0c"
+  },
+  "island_id": "635",
+  "isles_id": "660",
+  "reg_no": "L03",
+  "name_dv": "މަގޫދޫ",
+  "name_en": "Magoodhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.984093",
+  "lat": "3.118307",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "30",
+  "atoll_code": "L"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffec10"
+  },
+  "island_id": "636",
+  "isles_id": "661",
+  "reg_no": "L04",
+  "name_dv": "ދަރަނބޫދޫ",
+  "name_en": "Dharaboodhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.963387",
+  "lat": "3.078585",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "30",
+  "atoll_code": "L"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffec14"
+  },
+  "island_id": "637",
+  "isles_id": "662",
+  "reg_no": "L05",
+  "name_dv": "ނިލަންދޫ",
+  "name_en": "Nilandhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.925491",
+  "lat": "3.063024",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "30",
+  "atoll_code": "L"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffec1c"
+  },
+  "island_id": "655",
+  "isles_id": "689",
+  "reg_no": "M01",
+  "name_dv": "މީދޫ",
+  "name_en": "Meedhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.006371",
+  "lat": "2.998282",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "31",
+  "atoll_code": "M"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffec20"
+  },
+  "island_id": "656",
+  "isles_id": "690",
+  "reg_no": "M02",
+  "name_dv": "ބަނޑިދޫ",
+  "name_en": "Bandidhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.990761",
+  "lat": "2.936484",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "31",
+  "atoll_code": "M"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffec24"
+  },
+  "island_id": "657",
+  "isles_id": "691",
+  "reg_no": "M03",
+  "name_dv": "ރިނބުދޫ",
+  "name_en": "Rinbudhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.894051",
+  "lat": "2.925362",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "31",
+  "atoll_code": "M"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffec28"
+  },
+  "island_id": "658",
+  "isles_id": "692",
+  "reg_no": "M04",
+  "name_dv": "ހުޅުދެލި",
+  "name_en": "Hulhudheli",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.846359",
+  "lat": "2.858436",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "31",
+  "atoll_code": "M"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffec2c"
+  },
+  "island_id": "659",
+  "isles_id": "693",
+  "reg_no": "M05",
+  "name_dv": "ގެމެންދޫ",
+  "name_en": "Gemendhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.026268",
+  "lat": "2.803711",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "32",
+  "atoll_code": "M"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffec30"
+  },
+  "island_id": "660",
+  "isles_id": "694",
+  "reg_no": "M06",
+  "name_dv": "ވާނީ",
+  "name_en": "Vaanee",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.003220",
+  "lat": "2.725510",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "32",
+  "atoll_code": "M"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffec34"
+  },
+  "island_id": "661",
+  "isles_id": "695",
+  "reg_no": "M07",
+  "name_dv": "މާއެނބޫދޫ",
+  "name_en": "Maaenboodhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.963333",
+  "lat": "2.695566",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "32",
+  "atoll_code": "M"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffec38"
+  },
+  "island_id": "662",
+  "isles_id": "696",
+  "reg_no": "M08",
+  "name_dv": "ކުޑަހުވަދޫ",
+  "name_en": "Kudahuvadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.893715",
+  "lat": "2.671707",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "32",
+  "atoll_code": "M"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffec40"
+  },
+  "island_id": "696",
+  "isles_id": "742",
+  "reg_no": "N01",
+  "name_dv": "ބުރުނީ",
+  "name_en": "Buruni",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.105995",
+  "lat": "2.558714",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "33",
+  "atoll_code": "N"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffec44"
+  },
+  "island_id": "697",
+  "isles_id": "743",
+  "reg_no": "N02",
+  "name_dv": "ވިލުފުށި",
+  "name_en": "Vilufushi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.308228",
+  "lat": "2.502818",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "33",
+  "atoll_code": "N"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffec48"
+  },
+  "island_id": "698",
+  "isles_id": "744",
+  "reg_no": "N03",
+  "name_dv": "މަޑިފުށި",
+  "name_en": "Madifushi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.354820",
+  "lat": "2.356963",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "33",
+  "atoll_code": "N"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffec4c"
+  },
+  "island_id": "699",
+  "isles_id": "745",
+  "reg_no": "N04",
+  "name_dv": "ދިޔަމިގިލި",
+  "name_en": "Dhiyamigili",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.336929",
+  "lat": "2.340187",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "33",
+  "atoll_code": "N"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffec50"
+  },
+  "island_id": "700",
+  "isles_id": "746",
+  "reg_no": "N05",
+  "name_dv": "ގުރައިދޫ",
+  "name_en": "Guraidhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.319420",
+  "lat": "2.324968",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "33",
+  "atoll_code": "N"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffec54"
+  },
+  "island_id": "701",
+  "isles_id": "747",
+  "reg_no": "N06",
+  "name_dv": "ކަނޑޫދޫ",
+  "name_en": "Kandoodhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.916611",
+  "lat": "2.321204",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "34",
+  "atoll_code": "N"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffec58"
+  },
+  "island_id": "702",
+  "isles_id": "748",
+  "reg_no": "N07",
+  "name_dv": "ވަންދޫ",
+  "name_en": "Vandhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.941994",
+  "lat": "2.291691",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "34",
+  "atoll_code": "N"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffec5c"
+  },
+  "island_id": "703",
+  "isles_id": "749",
+  "reg_no": "N08",
+  "name_dv": "ހިރިލަންދޫ",
+  "name_en": "Hirilandhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.932533",
+  "lat": "2.269611",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "34",
+  "atoll_code": "N"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffec60"
+  },
+  "island_id": "704",
+  "isles_id": "750",
+  "reg_no": "N09",
+  "name_dv": "ގާދިއްފުށި",
+  "name_en": "Gaadhiffushi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.212402",
+  "lat": "2.253139",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "34",
+  "atoll_code": "N"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffec64"
+  },
+  "island_id": "705",
+  "isles_id": "751",
+  "reg_no": "N10",
+  "name_dv": "ތިމަރަފުށި",
+  "name_en": "Thimarafushi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.142937",
+  "lat": "2.205529",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "34",
+  "atoll_code": "N"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffec68"
+  },
+  "island_id": "706",
+  "isles_id": "752",
+  "reg_no": "N11",
+  "name_dv": "ވޭމަންޑޫ",
+  "name_en": "Veymandoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.094460",
+  "lat": "2.186917",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "34",
+  "atoll_code": "N"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffec6c"
+  },
+  "island_id": "707",
+  "isles_id": "753",
+  "reg_no": "N12",
+  "name_dv": "ކިނބިދޫ",
+  "name_en": "Kinbidhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.066002",
+  "lat": "2.168105",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "34",
+  "atoll_code": "N"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffec70"
+  },
+  "island_id": "708",
+  "isles_id": "754",
+  "reg_no": "N13",
+  "name_dv": "އޮމަދޫ",
+  "name_en": "Omadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.023552",
+  "lat": "2.167358",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "34",
+  "atoll_code": "N"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffec78"
+  },
+  "island_id": "762",
+  "isles_id": "809",
+  "reg_no": "O01",
+  "name_dv": "އިސްދޫ",
+  "name_en": "Isdhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.568443",
+  "lat": "2.119007",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "35",
+  "atoll_code": "O"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffec7c"
+  },
+  "island_id": "763",
+  "isles_id": "810",
+  "reg_no": "O02",
+  "name_dv": "ދަނބިދޫ",
+  "name_en": "Dhabidhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.544342",
+  "lat": "2.093724",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "35",
+  "atoll_code": "O"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffec80"
+  },
+  "island_id": "764",
+  "isles_id": "811",
+  "reg_no": "O03",
+  "name_dv": "މާބައިދޫ",
+  "name_en": "Maabaidhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.532516",
+  "lat": "2.027370",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "35",
+  "atoll_code": "O"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffec84"
+  },
+  "island_id": "765",
+  "isles_id": "812",
+  "reg_no": "O04",
+  "name_dv": "މުންޑޫ",
+  "name_en": "Mundoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.533737",
+  "lat": "2.011052",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "35",
+  "atoll_code": "O"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffec88"
+  },
+  "island_id": "766",
+  "isles_id": "813",
+  "reg_no": "O05",
+  "name_dv": "ކަޅައިދޫ",
+  "name_en": "Kalhaidhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.537529",
+  "lat": "1.988794",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "35",
+  "atoll_code": "O"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffec8c"
+  },
+  "island_id": "767",
+  "isles_id": "814",
+  "reg_no": "O06",
+  "name_dv": "ގަން",
+  "name_en": "Gan",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.539757",
+  "lat": "1.911136",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "35",
+  "atoll_code": "O"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffec90"
+  },
+  "island_id": "768",
+  "isles_id": "815",
+  "reg_no": "O07",
+  "name_dv": "މާވަށް",
+  "name_en": "Maavah",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.242348",
+  "lat": "1.885328",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "36",
+  "atoll_code": "O"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffec94"
+  },
+  "island_id": "769",
+  "isles_id": "816",
+  "reg_no": "O08",
+  "name_dv": "ފޮނަދޫ",
+  "name_en": "Fonadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.504242",
+  "lat": "1.836324",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "36",
+  "atoll_code": "O"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffec98"
+  },
+  "island_id": "770",
+  "isles_id": "817",
+  "reg_no": "O09",
+  "name_dv": "ގާދޫ",
+  "name_en": "Gaadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.452087",
+  "lat": "1.821457",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "36",
+  "atoll_code": "O"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffec9c"
+  },
+  "island_id": "771",
+  "isles_id": "818",
+  "reg_no": "O10",
+  "name_dv": "މާމެންދޫ",
+  "name_en": "Maamendhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.389870",
+  "lat": "1.818038",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "36",
+  "atoll_code": "O"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffeca0"
+  },
+  "island_id": "772",
+  "isles_id": "819",
+  "reg_no": "O11",
+  "name_dv": "ހިތަދޫ",
+  "name_en": "Hithadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.388046",
+  "lat": "1.795957",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "36",
+  "atoll_code": "O"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffeca4"
+  },
+  "island_id": "773",
+  "isles_id": "820",
+  "reg_no": "O12",
+  "name_dv": "ކުނަހަންދޫ",
+  "name_en": "Kunahandhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.368362",
+  "lat": "1.783307",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "36",
+  "atoll_code": "O"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffecac"
+  },
+  "island_id": "824",
+  "isles_id": "882",
+  "reg_no": "P01",
+  "name_dv": "ކޮލަމާފުށި",
+  "name_en": "Kolamaafushi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.185013",
+  "lat": "0.837154",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "37",
+  "atoll_code": "P"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffecb0"
+  },
+  "island_id": "825",
+  "isles_id": "883",
+  "reg_no": "P02",
+  "name_dv": "ވިލިނގިލި",
+  "name_en": "Villingili",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.434883",
+  "lat": "0.755293",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "37",
+  "atoll_code": "P"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffecb4"
+  },
+  "island_id": "826",
+  "isles_id": "884",
+  "reg_no": "P03",
+  "name_dv": "މާމެންދޫ",
+  "name_en": "Maamendhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.438889",
+  "lat": "0.713464",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "37",
+  "atoll_code": "P"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffecb8"
+  },
+  "island_id": "827",
+  "isles_id": "885",
+  "reg_no": "P04",
+  "name_dv": "ނިލަންދޫ",
+  "name_en": "Nilandhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.446205",
+  "lat": "0.636416",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "37",
+  "atoll_code": "P"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffecbc"
+  },
+  "island_id": "828",
+  "isles_id": "886",
+  "reg_no": "P05",
+  "name_dv": "ދާންދޫ",
+  "name_en": "Dhaandhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.462097",
+  "lat": "0.621114",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "37",
+  "atoll_code": "P"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffecc0"
+  },
+  "island_id": "829",
+  "isles_id": "887",
+  "reg_no": "P06",
+  "name_dv": "ދެއްވަދޫ",
+  "name_en": "Dhevvadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.242233",
+  "lat": "0.556858",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "38",
+  "atoll_code": "P"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffecc4"
+  },
+  "island_id": "830",
+  "isles_id": "888",
+  "reg_no": "P07",
+  "name_dv": "ކޮނޑޭ",
+  "name_en": "Kondey",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.549652",
+  "lat": "0.499554",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "38",
+  "atoll_code": "P"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffecc8"
+  },
+  "island_id": "831",
+  "isles_id": "889",
+  "reg_no": "P08",
+  "name_dv": "ދިޔަދޫ",
+  "name_en": "Dhiyadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.558968",
+  "lat": "0.476468",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "38",
+  "atoll_code": "P"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffeccc"
+  },
+  "island_id": "832",
+  "isles_id": "890",
+  "reg_no": "P09",
+  "name_dv": "ގެމަނަފުށި",
+  "name_en": "Gemanafushi",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.568520",
+  "lat": "0.442017",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "38",
+  "atoll_code": "P"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffecd0"
+  },
+  "island_id": "833",
+  "isles_id": "891",
+  "reg_no": "P10",
+  "name_dv": "ކަނޑުހުޅުދޫ",
+  "name_en": "Kanduhulhudhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.539993",
+  "lat": "0.351344",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "38",
+  "atoll_code": "P"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffecd8"
+  },
+  "island_id": "899",
+  "isles_id": "962",
+  "reg_no": "Q01",
+  "name_dv": "މަޑަވެލި",
+  "name_en": "Madaveli",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.999237",
+  "lat": "0.459010",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "39",
+  "atoll_code": "Q"
+},{
+  "_id": {
+    "$oid": "5eabf325e5b12a1429ffecdc"
+  },
+  "island_id": "900",
+  "isles_id": "963",
+  "reg_no": "Q02",
+  "name_dv": "ހޯޑެއްދޫ",
+  "name_en": "Hoadedhdhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.003250",
+  "lat": "0.444125",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "39",
+  "atoll_code": "Q"
+},{
+  "_id": {
+    "$oid": "5eabf325e5b12a1429ffece0"
+  },
+  "island_id": "901",
+  "isles_id": "964",
+  "reg_no": "Q03",
+  "name_dv": "ނަޑެއްލާ",
+  "name_en": "Nadellaa",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.040726",
+  "lat": "0.293590",
+  "prayer_adjust_mins": "1",
+  "prayer_table_id": "40",
+  "atoll_code": "Q"
+},{
+  "_id": {
+    "$oid": "5eabf325e5b12a1429ffece4"
+  },
+  "island_id": "902",
+  "isles_id": "965",
+  "reg_no": "Q04",
+  "name_dv": "ގައްދޫ",
+  "name_en": "Gadhdhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.456436",
+  "lat": "0.289472",
+  "prayer_adjust_mins": "-1",
+  "prayer_table_id": "40",
+  "atoll_code": "Q"
+},{
+  "_id": {
+    "$oid": "5eabf325e5b12a1429ffece8"
+  },
+  "island_id": "903",
+  "isles_id": "966",
+  "reg_no": "Q05",
+  "name_dv": "ރަތަފަންދޫ",
+  "name_en": "Rathafandhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.104874",
+  "lat": "0.253248",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "40",
+  "atoll_code": "Q"
+},{
+  "_id": {
+    "$oid": "5eabf325e5b12a1429ffecec"
+  },
+  "island_id": "904",
+  "isles_id": "967",
+  "reg_no": "Q06",
+  "name_dv": "ވާދޫ",
+  "name_en": "Vaadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.273880",
+  "lat": "0.227282",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "40",
+  "atoll_code": "Q"
+},{
+  "_id": {
+    "$oid": "5eabf325e5b12a1429ffecf0"
+  },
+  "island_id": "905",
+  "isles_id": "968",
+  "reg_no": "Q07",
+  "name_dv": "ފިޔޯރީ",
+  "name_en": "Fiyoari",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.136642",
+  "lat": "0.221270",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "40",
+  "atoll_code": "Q"
+},{
+  "_id": {
+    "$oid": "5eabf325e5b12a1429ffecf4"
+  },
+  "island_id": "906",
+  "isles_id": "971",
+  "reg_no": "Q10",
+  "name_dv": "ތިނަދޫ",
+  "name_en": "Thinadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "72.997231",
+  "lat": "0.530185",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "39",
+  "atoll_code": "Q"
+},{
+  "_id": {
+    "$oid": "5eabf325e5b12a1429ffecf8"
+  },
+  "island_id": "907",
+  "isles_id": "972",
+  "reg_no": "Q",
+  "name_dv": "ފަރެސްމާތޮޑާ",
+  "name_en": "Fares-Maathodaa",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.189812",
+  "lat": "0.199020",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "40",
+  "atoll_code": "Q"
+},{
+  "_id": {
+    "$oid": "5eabf325e5b12a1429ffed00"
+  },
+  "island_id": "951",
+  "isles_id": "1020",
+  "reg_no": "R01",
+  "name_dv": "ފުވައްމުލައް",
+  "name_en": "Fuvahmulah",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.425797",
+  "lat": "-0.294287",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "41",
+  "atoll_code": "R"
+},{
+  "_id": {
+    "$oid": "5eabf325e5b12a1429ffed08"
+  },
+  "island_id": "952",
+  "isles_id": "1021",
+  "reg_no": "S01",
+  "name_dv": "މީދޫ",
+  "name_en": "Meedhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.232323",
+  "lat": "-0.582437",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "42",
+  "atoll_code": "S"
+},{
+  "_id": {
+    "$oid": "5eabf325e5b12a1429ffed0c"
+  },
+  "island_id": "953",
+  "isles_id": "1022",
+  "reg_no": "S02",
+  "name_dv": "ހިތަދޫ",
+  "name_en": "Hithadhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.093651",
+  "lat": "-0.615665",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "42",
+  "atoll_code": "S"
+},{
+  "_id": {
+    "$oid": "5eabf325e5b12a1429ffed10"
+  },
+  "island_id": "954",
+  "isles_id": "1023",
+  "reg_no": "S03",
+  "name_dv": "މަރަދޫ",
+  "name_en": "Maradhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.119102",
+  "lat": "-0.665054",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "42",
+  "atoll_code": "S"
+},{
+  "_id": {
+    "$oid": "5eabf325e5b12a1429ffed14"
+  },
+  "island_id": "955",
+  "isles_id": "1024",
+  "reg_no": "S04",
+  "name_dv": "ފޭދޫ",
+  "name_en": "Feydhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.136391",
+  "lat": "-0.681034",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "42",
+  "atoll_code": "S"
+},{
+  "_id": {
+    "$oid": "5eabf325e5b12a1429ffed18"
+  },
+  "island_id": "956",
+  "isles_id": "1025",
+  "reg_no": "S05",
+  "name_dv": "މަރަދޫފޭދޫ",
+  "name_en": "Maradhoo-Feydhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.125885",
+  "lat": "-0.673394",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "42",
+  "atoll_code": "S"
+},{
+  "_id": {
+    "$oid": "5eabf325e5b12a1429ffed1c"
+  },
+  "island_id": "957",
+  "isles_id": "1026",
+  "reg_no": "S06",
+  "name_dv": "ހުޅުދޫ",
+  "name_en": "Hulhudhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.227859",
+  "lat": "-0.592650",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "42",
+  "atoll_code": "S"
+},{
+  "_id": {
+    "$oid": "5eabf325e5b12a1429ffed20"
+  },
+  "island_id": "958",
+  "isles_id": "1027",
+  "reg_no": "S",
+  "name_dv": "ހުޅުމީދޫ",
+  "name_en": "Hulhumeedhoo",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.232262",
+  "lat": "-0.586900",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "42",
+  "atoll_code": "S"
+},{
+  "_id": {
+    "$oid": "5eabf325e5b12a1429ffed28"
+  },
+  "island_id": "415",
+  "isles_id": "432",
+  "reg_no": "T10",
+  "name_dv": "މާލެ",
+  "name_en": "Male'",
+  "island_type": "1",
+  "resort_name_dv": null,
+  "resort_name_en": null,
+  "lng": "73.509880",
+  "lat": "4.175030",
+  "prayer_adjust_mins": "0",
+  "prayer_table_id": "17",
+  "atoll_code": "T"
+}]
