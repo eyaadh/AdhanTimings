@@ -1,0 +1,232 @@
+[{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffe9d0"
+  },
+  "atoll_id": "1",
+  "code_letter": "A",
+  "name_abbr_dv": "ހއ",
+  "name_abbr_en": "HA",
+  "name_official_dv": "ތިލަދުންމަތި އުތުރުބުރި",
+  "name_official_en": "Thiladhunmathi Uthuruburi",
+  "atoll_type": "1"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea0c"
+  },
+  "atoll_id": "2",
+  "code_letter": "B",
+  "name_abbr_dv": "ހދ",
+  "name_abbr_en": "HDh",
+  "name_official_dv": "ތިލަދުންމަތި ދެކުނުބުރި",
+  "name_official_en": "Thiladhunmathi Dhekunuburi",
+  "atoll_type": "1"
+},{
+  "_id": {
+    "$oid": "5eabf31fe5b12a1429ffea50"
+  },
+  "atoll_id": "3",
+  "code_letter": "C",
+  "name_abbr_dv": "ށ",
+  "name_abbr_en": "Sh",
+  "name_official_dv": "މިލަދުންމަޑުލު އުތުރުބުރި",
+  "name_official_en": "Miladhunmadulu Uthuruburi",
+  "atoll_type": "1"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffea90"
+  },
+  "atoll_id": "4",
+  "code_letter": "D",
+  "name_abbr_dv": "ނ",
+  "name_abbr_en": "N",
+  "name_official_dv": "މިލަދުންމަޑުލު ދެކުނުބުރި",
+  "name_official_en": "Miladhunmadulu Dhekunuburi",
+  "atoll_type": "1"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeac8"
+  },
+  "atoll_id": "5",
+  "code_letter": "E",
+  "name_abbr_dv": "ރ",
+  "name_abbr_en": "R",
+  "name_official_dv": "މާޅޮސްމަޑުލު އުތުރުބުރި",
+  "name_official_en": "Maalhosmadulu Uthuruburi",
+  "atoll_type": "1"
+},{
+  "_id": {
+    "$oid": "5eabf320e5b12a1429ffeb00"
+  },
+  "atoll_id": "6",
+  "code_letter": "F",
+  "name_abbr_dv": "ބ",
+  "name_abbr_en": "B",
+  "name_official_dv": "މާޅޮސްމަޑުލު ދެކުނުބުރި",
+  "name_official_en": "Maalhosmadulu Dhekunuburi",
+  "atoll_type": "1"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb38"
+  },
+  "atoll_id": "7",
+  "code_letter": "G",
+  "name_abbr_dv": "ޅ",
+  "name_abbr_en": "Lh",
+  "name_official_dv": "ފާދިއްޕޮޅު",
+  "name_official_en": "Faadhippolhu",
+  "atoll_type": "1"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb4c"
+  },
+  "atoll_id": "8",
+  "code_letter": "H",
+  "name_abbr_dv": "ކ",
+  "name_abbr_en": "K",
+  "name_official_dv": "މާލެ އަތޮޅު",
+  "name_official_en": "Malé Atholhu",
+  "atoll_type": "1"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb74"
+  },
+  "atoll_id": "9",
+  "code_letter": "U",
+  "name_abbr_dv": "އއ",
+  "name_abbr_en": "AA",
+  "name_official_dv": "އަރިއަތޮޅު އުތުރުބުރި",
+  "name_official_en": "Ari Atholhu Uthuruburi",
+  "atoll_type": "1"
+},{
+  "_id": {
+    "$oid": "5eabf321e5b12a1429ffeb98"
+  },
+  "atoll_id": "10",
+  "code_letter": "I",
+  "name_abbr_dv": "އދ",
+  "name_abbr_en": "Adh",
+  "name_official_dv": "އަރިއަތޮޅު ދެކުނުބުރި",
+  "name_official_en": "Ari Atholhu Dhekunuburi",
+  "atoll_type": "1"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffebc4"
+  },
+  "atoll_id": "11",
+  "code_letter": "J",
+  "name_abbr_dv": "ވ",
+  "name_abbr_en": "V",
+  "name_official_dv": "ފެލިދެ އަތޮޅު",
+  "name_official_en": "Felidhu Atholhu",
+  "atoll_type": "1"
+},{
+  "_id": {
+    "$oid": "5eabf322e5b12a1429ffebdc"
+  },
+  "atoll_id": "12",
+  "code_letter": "K",
+  "name_abbr_dv": "މ",
+  "name_abbr_en": "M",
+  "name_official_dv": "މުލަކު އަތޮޅު",
+  "name_official_en": "Mulak Atholhu",
+  "atoll_type": "1"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffec00"
+  },
+  "atoll_id": "13",
+  "code_letter": "L",
+  "name_abbr_dv": "ފ",
+  "name_abbr_en": "F",
+  "name_official_dv": "ނިލަންދެ އަތޮޅު އުތުރުބުރި",
+  "name_official_en": "Nilandhe Atholhu Uthuruburi",
+  "atoll_type": "1"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffec18"
+  },
+  "atoll_id": "14",
+  "code_letter": "M",
+  "name_abbr_dv": "ދ",
+  "name_abbr_en": "Dh",
+  "name_official_dv": "ނިލަންދެ އަތޮޅު ދެކުނުބުރި",
+  "name_official_en": "Nilandhe Atholhu Dhekunuburi",
+  "atoll_type": "1"
+},{
+  "_id": {
+    "$oid": "5eabf323e5b12a1429ffec3c"
+  },
+  "atoll_id": "15",
+  "code_letter": "N",
+  "name_abbr_dv": "ތ",
+  "name_abbr_en": "Th",
+  "name_official_dv": "ކޮޅުމަޑުލު",
+  "name_official_en": "Kolhumadulu",
+  "atoll_type": "1"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffec74"
+  },
+  "atoll_id": "16",
+  "code_letter": "O",
+  "name_abbr_dv": "ލ",
+  "name_abbr_en": "L",
+  "name_official_dv": "ހައްދުންމަތި",
+  "name_official_en": "Haddhunmathi",
+  "atoll_type": "1"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffeca8"
+  },
+  "atoll_id": "17",
+  "code_letter": "P",
+  "name_abbr_dv": "ގއ",
+  "name_abbr_en": "GA",
+  "name_official_dv": "ހުވަދު އަތޮޅު އުތުރުބުރި",
+  "name_official_en": "Huvadhu Atholhu Uthuruburi",
+  "atoll_type": "1"
+},{
+  "_id": {
+    "$oid": "5eabf324e5b12a1429ffecd4"
+  },
+  "atoll_id": "18",
+  "code_letter": "Q",
+  "name_abbr_dv": "ގދ",
+  "name_abbr_en": "GDh",
+  "name_official_dv": "ހުވަދު އަތޮޅު ދެކުނުބުރި",
+  "name_official_en": "Huvadhu Atholhu Dhekunuburi",
+  "atoll_type": "1"
+},{
+  "_id": {
+    "$oid": "5eabf325e5b12a1429ffecfc"
+  },
+  "atoll_id": "19",
+  "code_letter": "R",
+  "name_abbr_dv": "ޏ",
+  "name_abbr_en": "Gn",
+  "name_official_dv": "ފުއައްމުލައް",
+  "name_official_en": "Fuvahmulah",
+  "atoll_type": "1"
+},{
+  "_id": {
+    "$oid": "5eabf325e5b12a1429ffed04"
+  },
+  "atoll_id": "20",
+  "code_letter": "S",
+  "name_abbr_dv": "ސ",
+  "name_abbr_en": "S",
+  "name_official_dv": "އައްޑޫ ސިޓީ",
+  "name_official_en": "Addu City",
+  "atoll_type": "2"
+},{
+  "_id": {
+    "$oid": "5eabf325e5b12a1429ffed24"
+  },
+  "atoll_id": "21",
+  "code_letter": "T",
+  "name_abbr_dv": "މާލެ",
+  "name_abbr_en": "Male'",
+  "name_official_dv": "މާލެ ސިޓީ",
+  "name_official_en": "Male' City",
+  "atoll_type": "2"
+}]

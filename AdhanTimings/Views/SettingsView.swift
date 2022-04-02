@@ -29,10 +29,13 @@ struct SettingsView: View {
                     
                     Picker("Locations", selection: $IslandModel.locationIndex) {
                         ForEach(0..<IslandModel.Islands.count) { islandIndex in
-                            Text(IslandModel.Islands[islandIndex].name_en).tag(islandIndex)
+                            Text(IslandModel.Islands[islandIndex].name_en)
+                                .tag(islandIndex)
                                 .font(Font.custom("Avenir Light", size: 17))
+                                
                         }
                     }.pickerStyle(MenuPickerStyle())
+    
                 }
             }.padding()
         }

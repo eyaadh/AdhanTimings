@@ -24,6 +24,7 @@
 		3915C66827F84EBF002C6684 /* DuaDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3915C66727F84EBF002C6684 /* DuaDataService.swift */; };
 		3915C66A27F8516D002C6684 /* DuasViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3915C66927F8516D002C6684 /* DuasViewModel.swift */; };
 		3915C66C27F85367002C6684 /* DhuasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3915C66B27F85367002C6684 /* DhuasView.swift */; };
+		391B43C427F8BDFA002565C4 /* atolls.json in Resources */ = {isa = PBXBuildFile; fileRef = 391B43C327F8BDFA002565C4 /* atolls.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		3915C66727F84EBF002C6684 /* DuaDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuaDataService.swift; sourceTree = "<group>"; };
 		3915C66927F8516D002C6684 /* DuasViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuasViewModel.swift; sourceTree = "<group>"; };
 		3915C66B27F85367002C6684 /* DhuasView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DhuasView.swift; sourceTree = "<group>"; };
+		391B43C327F8BDFA002565C4 /* atolls.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = atolls.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				3915C66327F84AC9002C6684 /* duas.json */,
 				390E2A5427F8B19B00363F8E /* prayer_times.json */,
 				390E2A5627F8B27200363F8E /* islands.json */,
+				391B43C327F8BDFA002565C4 /* atolls.json */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -208,6 +211,7 @@
 				3915C65427F82A92002C6684 /* Preview Assets.xcassets in Resources */,
 				390E2A5527F8B19B00363F8E /* prayer_times.json in Resources */,
 				3915C66427F84AC9002C6684 /* duas.json in Resources */,
+				391B43C427F8BDFA002565C4 /* atolls.json in Resources */,
 				3915C65127F82A92002C6684 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
