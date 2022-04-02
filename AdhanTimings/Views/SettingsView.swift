@@ -32,7 +32,6 @@ struct SettingsView: View {
                             Text(IslandModel.Islands[islandIndex].name_en)
                                 .tag(islandIndex)
                                 .font(Font.custom("Avenir Light", size: 17))
-                                
                         }
                     }.pickerStyle(MenuPickerStyle())
     
