@@ -22,7 +22,7 @@ struct AdhaanTimingsMainView: View {
                 }
             }
             
-            DhuasView()
+            DhuasListView()
             .tabItem {
                 VStack{
                     Image(systemName: "list.bullet.rectangle.fill")

@@ -31,6 +31,7 @@
 		39857D9C27F8D3D9009536D3 /* PrayerTimesDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39857D9B27F8D3D9009536D3 /* PrayerTimesDataModel.swift */; };
 		39857D9E27F8D469009536D3 /* PrayerTimeDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39857D9D27F8D469009536D3 /* PrayerTimeDataService.swift */; };
 		39857DA027F8D60D009536D3 /* PrayerTimesViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39857D9F27F8D60D009536D3 /* PrayerTimesViewModel.swift */; };
+		39B3E04927F9AFF800C52B02 /* DhuasListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39B3E04827F9AFF800C52B02 /* DhuasListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,6 +60,7 @@
 		39857D9B27F8D3D9009536D3 /* PrayerTimesDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrayerTimesDataModel.swift; sourceTree = "<group>"; };
 		39857D9D27F8D469009536D3 /* PrayerTimeDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrayerTimeDataService.swift; sourceTree = "<group>"; };
 		39857D9F27F8D60D009536D3 /* PrayerTimesViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrayerTimesViewModel.swift; sourceTree = "<group>"; };
+		39B3E04827F9AFF800C52B02 /* DhuasListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DhuasListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -161,10 +163,19 @@
 				3915C64E27F82A8F002C6684 /* AdhaanTimingsMainView.swift */,
 				3915C65F27F84126002C6684 /* PrayerTimingsView.swift */,
 				3915C66127F8423B002C6684 /* DuaoftheDayView.swift */,
-				3915C66B27F85367002C6684 /* DhuasView.swift */,
 				390E2A5E27F8B93400363F8E /* SettingsView.swift */,
+				39B3E04727F9AFA500C52B02 /* Duas */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		39B3E04727F9AFA500C52B02 /* Duas */ = {
+			isa = PBXGroup;
+			children = (
+				39B3E04827F9AFF800C52B02 /* DhuasListView.swift */,
+				3915C66B27F85367002C6684 /* DhuasView.swift */,
+			);
+			path = Duas;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -252,6 +263,7 @@
 				3915C66627F84BE8002C6684 /* DuaDataModel.swift in Sources */,
 				390E2A5D27F8B49F00363F8E /* IslandsViewModel.swift in Sources */,
 				3915C66A27F8516D002C6684 /* DuasViewModel.swift in Sources */,
+				39B3E04927F9AFF800C52B02 /* DhuasListView.swift in Sources */,
 				390E2A5B27F8B2E700363F8E /* IslandDataModel.swift in Sources */,
 				3915C66027F84126002C6684 /* PrayerTimingsView.swift in Sources */,
 				390E2A5F27F8B93500363F8E /* SettingsView.swift in Sources */,
