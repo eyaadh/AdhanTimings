@@ -42,7 +42,8 @@ struct DhuasView: View {
                 })
                 .padding()
             }
-        }.tabViewStyle(PageTabViewStyle(indexDisplayMode: .never))
+        }.tabViewStyle(PageTabViewStyle(indexDisplayMode: .automatic))
+            .indexViewStyle(PageIndexViewStyle(backgroundDisplayMode: .always))
     }
 }
 
