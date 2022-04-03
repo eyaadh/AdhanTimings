@@ -25,6 +25,7 @@
 		3915C66A27F8516D002C6684 /* DuasViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3915C66927F8516D002C6684 /* DuasViewModel.swift */; };
 		3915C66C27F85367002C6684 /* DhuasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3915C66B27F85367002C6684 /* DhuasView.swift */; };
 		391B43C427F8BDFA002565C4 /* atolls.json in Resources */ = {isa = PBXBuildFile; fileRef = 391B43C327F8BDFA002565C4 /* atolls.json */; };
+		3940DF9227FA115600AECE82 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 3940DF9127FA115600AECE82 /* README.md */; };
 		3979C57527F8CB7200E7D7EF /* AtollsDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3979C57427F8CB7200E7D7EF /* AtollsDataModel.swift */; };
 		3979C57727F8CC0B00E7D7EF /* AtollsDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3979C57627F8CC0B00E7D7EF /* AtollsDataService.swift */; };
 		3979C57927F8CD7600E7D7EF /* AtollsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3979C57827F8CD7600E7D7EF /* AtollsViewModel.swift */; };
@@ -54,6 +55,7 @@
 		3915C66927F8516D002C6684 /* DuasViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DuasViewModel.swift; sourceTree = "<group>"; };
 		3915C66B27F85367002C6684 /* DhuasView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DhuasView.swift; sourceTree = "<group>"; };
 		391B43C327F8BDFA002565C4 /* atolls.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = atolls.json; sourceTree = "<group>"; };
+		3940DF9127FA115600AECE82 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		3979C57427F8CB7200E7D7EF /* AtollsDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AtollsDataModel.swift; sourceTree = "<group>"; };
 		3979C57627F8CC0B00E7D7EF /* AtollsDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AtollsDataService.swift; sourceTree = "<group>"; };
 		3979C57827F8CD7600E7D7EF /* AtollsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AtollsViewModel.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 		3915C64027F82A8F002C6684 = {
 			isa = PBXGroup;
 			children = (
+				3940DF9127FA115600AECE82 /* README.md */,
 				3915C64B27F82A8F002C6684 /* AdhanTimings */,
 				3915C64A27F82A8F002C6684 /* Products */,
 			);
@@ -239,6 +242,7 @@
 				390E2A5727F8B27200363F8E /* islands.json in Resources */,
 				3915C65427F82A92002C6684 /* Preview Assets.xcassets in Resources */,
 				390E2A5527F8B19B00363F8E /* prayer_times.json in Resources */,
+				3940DF9227FA115600AECE82 /* README.md in Resources */,
 				3915C66427F84AC9002C6684 /* duas.json in Resources */,
 				391B43C427F8BDFA002565C4 /* atolls.json in Resources */,
 				3915C65127F82A92002C6684 /* Assets.xcassets in Resources */,
