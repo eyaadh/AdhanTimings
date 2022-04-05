@@ -35,13 +35,11 @@ struct DhuasListView: View {
                         }
                         
                     }
-                    .offset(y: -60)
                     .padding([.leading, .bottom, .trailing])
                                               
                 }
-                
-                
             }
+            .navigationBarHidden(true)
         }
         
     }

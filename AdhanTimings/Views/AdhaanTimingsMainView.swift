@@ -27,9 +27,6 @@ struct AdhaanTimingsMainView: View {
             .tabItem {
                 VStack{
                     Image(systemName: "list.bullet.rectangle.fill")
-                        .resizable()
-                        .scaledToFit()
-                        .frame(height: max(24,48))
                     Text("Duas")
                         .foregroundColor(Color.primary)
                 }
@@ -39,14 +36,13 @@ struct AdhaanTimingsMainView: View {
             .tabItem {
                 VStack{
                     Image(systemName: "gear.circle")
-                        .resizable()
-                        .scaledToFit()
-                        .frame(height: max(24,48))
                     Text("Settings")
                         .foregroundColor(Color.primary)
                 }
             }
         }
+        .tabViewStyle(PageTabViewStyle())
+        .ignoresSafeArea()
     }
 }
 
