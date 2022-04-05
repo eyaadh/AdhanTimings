@@ -167,7 +167,6 @@
 			children = (
 				3915C64E27F82A8F002C6684 /* AdhaanTimingsMainView.swift */,
 				3915C65F27F84126002C6684 /* PrayerTimingsView.swift */,
-				3915C66127F8423B002C6684 /* DuaoftheDayView.swift */,
 				390E2A5E27F8B93400363F8E /* SettingsView.swift */,
 				39B3E04727F9AFA500C52B02 /* Duas */,
 			);
@@ -177,6 +176,7 @@
 		39B3E04727F9AFA500C52B02 /* Duas */ = {
 			isa = PBXGroup;
 			children = (
+				3915C66127F8423B002C6684 /* DuaoftheDayView.swift */,
 				39B3E04827F9AFF800C52B02 /* DhuasListView.swift */,
 				3915C66B27F85367002C6684 /* DhuasView.swift */,
 				3965421F27FBC32500A25187 /* DuasSublistView.swift */,
