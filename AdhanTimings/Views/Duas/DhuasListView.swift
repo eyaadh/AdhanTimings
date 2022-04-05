@@ -21,7 +21,7 @@ struct DhuasListView: View {
                     VStack(alignment: .leading, spacing: 10) {
                         Text("Duas")
                             .font(Font.custom("Optima Bold", size: 30))
-                            .padding(.top, 60)
+                        Divider()
                         
                         ForEach(DuaModel.Thasbees){ thasbeeh in
                             NavigationLink {
@@ -34,9 +34,13 @@ struct DhuasListView: View {
                             }
                         }
                         
-                    }.padding([.leading, .bottom, .trailing])
-                        .navigationBarHidden(true)
+                    }
+                    .offset(y: -60)
+                    .padding([.leading, .bottom, .trailing])
+                                              
                 }
+                
+                
             }
         }
         
