@@ -44,7 +44,7 @@ struct PrayerTimingsView: View {
                     Divider()
                     
                     // MARK: Body - Home Screen
-                    VStack(spacing: 50){
+                    VStack(spacing: DuaModel.showDhuainHome ? 30 : 60){
                         HStack{
                             Image(systemName: "sun.and.horizon.fill")
                                 .resizable()

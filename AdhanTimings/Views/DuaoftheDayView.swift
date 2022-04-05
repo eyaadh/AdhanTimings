@@ -15,7 +15,7 @@ struct DuaoftheDayView: View {
     @State var duaRef:String? = ""
     
     var body: some View {
-        VStack(spacing: 10){
+        VStack(spacing: 20){
             Text(thasbeehName)
                 .font(Font.custom("Optima Bold", size: 20))
             Text(duaArabic)
@@ -40,16 +40,38 @@ struct DuaoftheDayView: View {
     }
     
     private func getRandDua() {
-        let randThasbeesIndex = Int.random(in: 0..<DuaModel.Thasbees.count)
-        let randDuaIndex = Int.random(in: 0..<DuaModel.Thasbees[randThasbeesIndex].duas.count)
+        var randDetails = getRandomIndex()
+
+        var thasbeeh = DuaModel.Thasbees[randDetails.rti]
+        var dua = thasbeeh.duas[randDetails.rdi]
+        var duaTransCharCount = 90
         
-        let thasbeeh = DuaModel.Thasbees[randThasbeesIndex]
-        let dua = thasbeeh.duas[randDuaIndex]
+        if let trans = dua.translation {
+            duaTransCharCount = trans.count
+        } else {
+            duaTransCharCount = 90
+        }
+        
+        while duaTransCharCount > 80 {
+            randDetails = getRandomIndex()
+            
+            thasbeeh = DuaModel.Thasbees[randDetails.rti]
+            dua = thasbeeh.duas[randDetails.rdi]
+            duaTransCharCount = dua.arabic.unicodeScalars.count
+        }
         
         self.thasbeehName = thasbeeh.name
         self.duaArabic = dua.arabic
         self.duaTranslation = dua.translation
         self.duaRef = dua.reference
+        
+    }
+    
+    private func getRandomIndex() -> (rti:Int, rdi: Int) {
+        let randThasbeesIndex = Int.random(in: 0..<DuaModel.Thasbees.count)
+        let randDuaIndex = Int.random(in: 0..<DuaModel.Thasbees[randThasbeesIndex].duas.count)
+        
+        return (rti: randThasbeesIndex, rdi: randDuaIndex)
         
     }
 }
