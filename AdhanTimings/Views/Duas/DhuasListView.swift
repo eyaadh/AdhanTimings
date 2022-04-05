@@ -14,7 +14,7 @@ struct DhuasListView: View {
     var body: some View {
         NavigationView{
             ZStack {
-                Image("bg2")
+                Image("Background")
                     .resizable()
                     .ignoresSafeArea()
                 ScrollView{
@@ -41,6 +41,7 @@ struct DhuasListView: View {
             }
             .navigationBarHidden(true)
         }
+        .navigationViewStyle(.stack)
         
     }
 }

@@ -15,7 +15,7 @@ struct DhuasView: View {
     var body: some View {
         ScrollView{
             ZStack{
-                Image("bg1")
+                Image("SubBackground")
                     .resizable()
                     .ignoresSafeArea()
                 VStack (spacing: 20.0) {

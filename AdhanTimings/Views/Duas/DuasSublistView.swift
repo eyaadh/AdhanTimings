@@ -15,7 +15,7 @@ struct DuasSublistView: View {
     
     var body: some View {
         ZStack {
-            Image("bg1")
+            Image("Background")
                 .resizable()
                 .ignoresSafeArea()
             ScrollView {

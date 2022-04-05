@@ -17,7 +17,7 @@ struct PrayerTimingsView: View {
     
     var body: some View {
         ZStack {
-            Image("bg2")
+            Image("Background")
                 .resizable()
                 .ignoresSafeArea()
             VStack{
