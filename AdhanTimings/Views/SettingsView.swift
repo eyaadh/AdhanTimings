@@ -14,20 +14,24 @@ struct SettingsView: View {
     @EnvironmentObject var PrayerTimesModel:PrayerTimesViewModel
     
     var body: some View {
-        ScrollView {
+        
+        ZStack {
+            Image("bg2")
+                .resizable()
+                .ignoresSafeArea()
             VStack(alignment: .leading){
                 // MARK: Show Dua of the Day Home Screen
                 Text("Settings")
-                    .font(Font.custom("Avenir Heavy", size: 20))
+                    .font(Font.custom("Optima Bold", size: 30))
                 
-                Toggle("Show Dua of the Day in Home Screen", isOn: $DuaModel.showDhuainHome)
-                    .font(Font.custom("Avenir Light", size: 17))
+                Toggle("Show Dua Card in Home Screen", isOn: $DuaModel.showDhuainHome)
+                    .font(Font.custom("Optima Regular", size: 20))
                 Divider()
                 
                 // MARK: Location Settings
                 HStack{
                     Text("Location: ")
-                        .font(Font.custom("Avenir Light", size: 17))
+                        .font(Font.custom("Optima Regular", size: 20))
                     
                     Picker("Location", selection: $IslandModel.locationIndex) {
                         ForEach(0..<IslandModel.Islands.count) { islandIndex in
@@ -37,14 +41,15 @@ struct SettingsView: View {
                             
                             Text("\(atollObj.name_abbr_en). \(IslandModel.Islands[islandIndex].name_en)")
                                 .tag(islandIndex)
-                                .font(Font.custom("Avenir Light", size: 17))
+                                .font(Font.custom("Optima Regular", size: 20))
                         }
                     }.pickerStyle(MenuPickerStyle())
                         .onChange(of: IslandModel.locationIndex) { newLocation in
                             PrayerTimesModel.updateTodaysPrayerTimes(locationIndex: newLocation)
                         }
-    
+
                 }
+                Spacer()
             }.padding()
         }
     }

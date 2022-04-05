@@ -19,6 +19,7 @@ struct AdhaanTimingsMainView: View {
                 VStack{
                     Image(systemName: "alarm")
                     Text("Prayer Timings")
+                        .foregroundColor(Color.primary)
                 }
             }
             
@@ -30,6 +31,7 @@ struct AdhaanTimingsMainView: View {
                         .scaledToFit()
                         .frame(height: max(24,48))
                     Text("Duas")
+                        .foregroundColor(Color.primary)
                 }
             }
             
@@ -41,6 +43,7 @@ struct AdhaanTimingsMainView: View {
                         .scaledToFit()
                         .frame(height: max(24,48))
                     Text("Settings")
+                        .foregroundColor(Color.primary)
                 }
             }
         }

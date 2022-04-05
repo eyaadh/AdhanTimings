@@ -12,27 +12,34 @@ struct DhuasListView: View {
     
     
     var body: some View {
-        NavigationView {
-            ScrollView{
-                VStack(alignment: .leading, spacing: 10) {
-                    Text("Duas")
-                        .font(Font.custom("Avenir Heavy", size: 20))
-                    
-                    ForEach(DuaModel.Thasbees){ thasbeeh in
-                        NavigationLink {
-                            DhuasView(duasList: thasbeeh.duas)
-                        } label: {
-                            Text("• \(thasbeeh.name) - \(thasbeeh.duas.count)")
-                                .font(Font.custom("Avenir Light", size: 17))
-                                .multilineTextAlignment(.leading)
-                                .foregroundColor(.black)
-                            
+        NavigationView{
+            ZStack {
+                Image("bg2")
+                    .resizable()
+                    .ignoresSafeArea()
+                ScrollView{
+                    VStack(alignment: .leading, spacing: 10) {
+                        Text("Duas")
+                            .font(Font.custom("Optima Bold", size: 30))
+                            .padding(.top, 60)
+                        
+                        ForEach(DuaModel.Thasbees){ thasbeeh in
+                            NavigationLink {
+                                DuasSublistView(duaList: thasbeeh.duas, duaHeading: thasbeeh.name)
+                            } label: {
+                                Text("• \(thasbeeh.name) - \(thasbeeh.duas.count)")
+                                    .font(Font.custom("Optima Regular", size: 20))
+                                    .foregroundColor(Color.primary)
+                                    .multilineTextAlignment(.leading)
+                            }
                         }
-                    }
-                    
-                }.padding()
-            }.navigationBarHidden(true)
+                        
+                    }.padding([.leading, .bottom, .trailing])
+                        .navigationBarHidden(true)
+                }
+            }
         }
+        
     }
 }
 

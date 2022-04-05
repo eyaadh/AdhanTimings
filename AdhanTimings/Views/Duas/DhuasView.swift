@@ -8,47 +8,47 @@
 import SwiftUI
 
 struct DhuasView: View {
-    let duasList:[Dua]
+    @EnvironmentObject var DuaModel:DuasViewModel
+    
+    let dua:Dua
     
     var body: some View {
-        TabView {
-            ForEach(duasList){ dua in
-                VStack {
+        ScrollView{
+            ZStack{
+                Image("bg1")
+                    .resizable()
+                    .ignoresSafeArea()
+                VStack (spacing: 20.0) {
                     Text(dua.title)
-                        .font(Font.custom("Avenir Heavy", size: 20))
-                        .padding(.vertical, 2.0)
+                        .font(Font.custom("Optima Bold", size: 30))
+                        .padding(.top, 60.0)
                         
                     Text(dua.arabic)
-                        .font(Font.custom("Al Tarikh", size: 20))
-                        .padding(.vertical, 2.0)
+                        .font(Font.custom("Al Tarikh", size: 30))
                         .shadow(color: .gray, radius: 10.0, x: 1, y: 1)
                     
                     if let translation = dua.translation {
                         Text(translation)
-                            .font(Font.custom("Avenir Light", size: 17))
-                            .padding(.vertical, 10.0)
+                            .font(Font.custom("Optima Bold", size: 20))
                     }
                     
                     if let reference = dua.reference {
                         Text("~ \(reference) ~")
-                            .font(Font.custom("Avenir Light", size: 17))
-                            .padding(.vertical, 10.0)
+                            .font(Font.custom("Optima Bold", size: 20))
                     }
-                    
+                    Spacer()
                     
 
-                }.tabItem({
-                       //
-                })
+                }
                 .padding()
             }
-        }.tabViewStyle(PageTabViewStyle(indexDisplayMode: .automatic))
-            .indexViewStyle(PageIndexViewStyle(backgroundDisplayMode: .always))
+        }
     }
 }
 
 struct DhuasView_Previews: PreviewProvider {
     static var previews: some View {
-        DhuasView(duasList:[Dua]())
+        DhuasView(dua:DuasViewModel().Thasbees[1].duas[0])
+            .environmentObject(DuasViewModel())
     }
 }
