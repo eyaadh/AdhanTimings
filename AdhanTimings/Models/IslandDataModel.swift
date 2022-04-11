@@ -13,4 +13,6 @@ class Island: Identifiable, Decodable {
     var name_dv:String = ""
     var name_en:String = ""
     var atoll_code:String = ""
+    var lng:String = ""
+    var lat:String = ""
 }

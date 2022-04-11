@@ -20,7 +20,7 @@ struct SettingsView: View {
                 .resizable()
                 .ignoresSafeArea()
             VStack(alignment: .leading){
-                // MARK: Show Dua of the Day Home Screen
+                // MARK: - Show Dua of the Day Home Screen
                 Text("Settings")
                     .font(Font.custom("Optima Bold", size: 30))
                 
@@ -28,9 +28,12 @@ struct SettingsView: View {
                     .font(Font.custom("Optima Regular", size: 20))
                 Divider()
                 
-                // MARK: Location Settings
+                // MARK: - Location Settings
+                Toggle("Update my Location Automatically", isOn: $IslandModel.autoLocationUpdate)
+                    .font(Font.custom("Optima Regular", size: 20))
+                
                 HStack{
-                    Text("Location: ")
+                    Text("Selected Location: ")
                         .font(Font.custom("Optima Regular", size: 20))
                     
                     Picker("Location", selection: $IslandModel.locationIndex) {
@@ -43,12 +46,15 @@ struct SettingsView: View {
                                 .tag(islandIndex)
                                 .font(Font.custom("Optima Regular", size: 20))
                         }
-                    }.pickerStyle(MenuPickerStyle())
-                        .onChange(of: IslandModel.locationIndex) { newLocation in
-                            PrayerTimesModel.updateTodaysPrayerTimes(locationIndex: newLocation)
-                        }
+                    }
+                    .pickerStyle(MenuPickerStyle())
+                    .disabled(IslandModel.autoLocationUpdate)
+                    .onChange(of: IslandModel.locationIndex) { newLocation in
+                        PrayerTimesModel.updateTodaysPrayerTimes(locationIndex: newLocation)
+                    }
 
                 }
+                Divider()
                 Spacer()
             }.padding()
         }

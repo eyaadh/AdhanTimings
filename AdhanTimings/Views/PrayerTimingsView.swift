@@ -133,6 +133,9 @@ struct PrayerTimingsView: View {
                 // PrayerTimesModel.updateTodaysPrayerTimes()
             }
         }
+        .onChange(of: IslandModel.locationIndex, perform: { newValue in
+            PrayerTimesModel.updateTodaysPrayerTimes(locationIndex: newValue)
+        })
     }
         
 }
