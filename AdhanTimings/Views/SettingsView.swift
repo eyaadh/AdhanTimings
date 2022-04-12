@@ -31,6 +31,13 @@ struct SettingsView: View {
                 // MARK: - Location Settings
                 Toggle("Update my Location Automatically", isOn: $IslandModel.autoLocationUpdate)
                     .font(Font.custom("Optima Regular", size: 20))
+                    .onChange(of: IslandModel.autoLocationUpdate) { _ in
+                        if IslandModel.autoLocationUpdate {
+                            IslandModel.locationManager.startUpdatingLocation()
+                        } else {
+                            IslandModel.locationManager.stopUpdatingLocation()
+                        }
+                    }
                 
                 HStack{
                     Text("Selected Location: ")

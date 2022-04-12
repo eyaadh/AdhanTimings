@@ -39,12 +39,6 @@ class IslandsViewMode: NSObject, CLLocationManagerDelegate, ObservableObject {
     func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
         checkClosestLocation(userLocation: locations.first!)
         
-        if !autoLocationUpdate {
-            locationManager.stopUpdatingLocation()
-        } else {
-            locationManager.startUpdatingLocation()
-        }
-        
     }
     
     func checkClosestLocation(userLocation: CLLocation){
