@@ -41,6 +41,8 @@ class IslandsViewMode: NSObject, CLLocationManagerDelegate, ObservableObject {
         
         if !autoLocationUpdate {
             locationManager.stopUpdatingLocation()
+        } else {
+            locationManager.startUpdatingLocation()
         }
         
     }
