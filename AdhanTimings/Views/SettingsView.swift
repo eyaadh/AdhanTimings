@@ -46,7 +46,7 @@ struct SettingsView: View {
                     Picker("Location", selection: $IslandModel.locationIndex) {
                         ForEach(0..<IslandModel.Islands.count) { islandIndex in
                             
-                            var atollObj = AtollsViewModel.getAtoll(atollCode: IslandModel.Islands[islandIndex].atoll_code)
+                            let atollObj = AtollsViewModel.getAtoll(atollCode: IslandModel.Islands[islandIndex].atoll_code)
                             
                             
                             Text("\(atollObj.name_abbr_en). \(IslandModel.Islands[islandIndex].name_en)")
