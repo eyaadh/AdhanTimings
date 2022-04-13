@@ -12,6 +12,8 @@ class PrayerTimesViewModel: ObservableObject {
     @Published var selectedIslandName:String = ""
     @Published var PrayerTimesForIsland = [PrayerTimes]()
     
+    @Published var statusPrayerNotifications:Bool = false
+    
     init(){
         updateTodaysPrayerTimes()
     }
